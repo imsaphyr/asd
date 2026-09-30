@@ -1,0 +1,783 @@
+# PoE 1 Gem Summary - 780 entries
+# Format: Name | Level | Tags
+
+Absolution | Lvl 12 | Spell, Minion, Duration, AoE, Physical, Lightning
+Absolution of Inspiring | Lvl 12 | Spell, Minion, Duration, Physical, Lightning, AoE
+Added Chaos Damage Support | Lvl 31 | Chaos, Support
+Added Cold Damage Support | Lvl 8 | Cold, Support
+Added Fire Damage Support | Lvl 8 | Fire, Physical, Support
+Added Lightning Damage Support | Lvl 8 | Lightning, Support
+Additional Accuracy Support | Lvl 8 | Attack, Support
+Advanced Traps Support | Lvl 31 | Trap, Support
+Alchemists Mark | Lvl 24 | Spell, Curse, Mark, AoE, Duration, Fire, Chaos
+Ambush | Lvl 34 | Critical, Spell, Movement, Duration, Travel
+Ancestral Call Support | Lvl 4 | Support, Melee, Attack, Strike
+Ancestral Cry | Lvl 16 | Warcry, AoE, Duration
+Anger | Lvl 24 | Aura, Spell, AoE, Fire
+Animate Guardian | Lvl 28 | Spell, Minion, Physical
+Animate Guardian of Smiting | Lvl 28 | Spell, Minion, Lightning
+Animate Weapon | Lvl 4 | Duration, Minion, Spell, Physical
+Animate Weapon of Ranged Arms | Lvl 4 | Duration, Minion, Spell, Physical
+Animate Weapon of Self Reflection | Lvl 4 | Duration, Minion, Spell
+Annihilation Support | Lvl 72 | Exceptional, AoE, Support
+Arc | Lvl 12 | Spell, Chaining, Lightning
+Arc of Oscillating | Lvl 12 | Spell, Chaining, Lightning
+Arc of Surging | Lvl 12 | Spell, Lightning
+Arcane Cloak | Lvl 16 | Spell, Duration, Guard, Lightning, Arcane
+Arcane Surge Support | Lvl 1 | Arcane, Support, Spell, Duration
+Arcanist Brand | Lvl 38 | Trigger, Spell, Duration, Brand
+Archmage Support | Lvl 31 | Lightning, Arcane, Support, Spell
+Arctic Armour | Lvl 16 | Spell, Duration, Cold
+Armageddon Brand | Lvl 28 | Spell, AoE, Fire, Duration, Brand
+Armageddon Brand of Recall | Lvl 28 | Spell, AoE, Fire, Duration, Brand
+Armageddon Brand of Volatility | Lvl 28 | Spell, AoE, Fire, Duration, Brand
+Arrogance Support | Lvl 31 | Aura, Support
+Arrow Nova Support | Lvl 8 | Bow, Attack, Support, Projectile
+Artillery Ballista | Lvl 28 | Attack, Totem, AoE, Fire, Projectile, Bow
+Artillery Ballista of Cross Strafe | Lvl 28 | Attack, Totem, AoE, Fire, Projectile, Bow
+Artillery Ballista of Focus Fire | Lvl 28 | Attack, Totem, AoE, Fire, Projectile, Bow
+Assassins Mark | Lvl 16 | Critical, Spell, Curse, Mark
+Autoexertion | Lvl 24 | Warcry, Trigger, Spell
+Automation | Lvl 24 | Trigger, Spell
+Awakened Empower Support | Lvl 72 | Exceptional, Support
+Awakened Enhance Support | Lvl 72 | Exceptional, Support
+Awakened Enlighten Support | Lvl 72 | Exceptional, Support
+Ball Lightning | Lvl 28 | Spell, Projectile, AoE, Lightning
+Ball Lightning of Orbiting | Lvl 28 | Spell, Projectile, AoE, Lightning
+Ball Lightning of Static | Lvl 28 | Spell, AoE, Lightning, Orb
+Ballista Totem Support | Lvl 8 | Bow, Projectile, Support, Totem
+Bane | Lvl 24 | Chaos, Trigger, Spell, AoE, Duration, Hex
+Bane of Condemnation | Lvl 24 | Chaos, Trigger, Spell, AoE, Duration, Hex
+Barrage | Lvl 12 | Attack, Projectile, Bow
+Barrage of Volley Fire | Lvl 12 | Attack, Projectile, Bow
+Barrage Support | Lvl 38 | Bow, Attack, Support, Projectile
+Battlemages Cry | Lvl 24 | Warcry, Critical, Trigger, AoE, Duration
+Bear Trap | Lvl 4 | Trap, Spell, Duration, Physical
+Bear Trap of Skewers | Lvl 4 | Trap, Spell, Duration, Physical
+Behead Support | Lvl 38 | Support, Melee, Attack, Strike
+Berserk | Lvl 34 | Spell
+Blade Blast | Lvl 16 | Spell, AoE, Physical
+Blade Blast of Dagger Detonation | Lvl 16 | Spell, AoE, Physical, Nova
+Blade Blast of Unloading | Lvl 16 | Spell, AoE, Physical, Nova
+Blade Flurry | Lvl 28 | Attack, AoE, Channelling, Melee
+Blade Flurry of Incision | Lvl 28 | Critical, Attack, AoE, Channelling, Melee
+Blade Trap | Lvl 12 | Trap, Attack, AoE
+Blade Trap of Greatswords | Lvl 12 | Trap, Attack, AoE, Duration
+Blade Trap of Laceration | Lvl 12 | Trap, Attack, AoE, Physical
+Blade Vortex | Lvl 12 | Spell, AoE, Duration, Physical
+Blade Vortex of the Scythe | Lvl 12 | Spell, AoE, Duration, Physical
+Bladefall | Lvl 28 | Spell, AoE, Physical, Duration
+Bladefall of Impaling | Lvl 28 | Critical, Spell, AoE, Physical
+Bladefall of Trarthus | Lvl 28 | Spell, AoE, Physical, Arcane, Duration
+Bladefall of Volleys | Lvl 28 | Critical, Spell, AoE, Physical
+Bladestorm | Lvl 28 | Attack, AoE, Duration, Melee
+Bladestorm of Uncertainty | Lvl 28 | Attack, AoE, Duration, Melee
+Blasphemy Support | Lvl 31 | Support, Hex, Aura
+Blast Rain | Lvl 28 | Fire, Attack, AoE, Projectile, Bow
+Blast Rain of Trarthus | Lvl 28 | Fire, Attack, AoE, Projectile, Duration, Bow
+Blastchain Mine Support | Lvl 8 | Support, Mine
+Blazing Salvo | Lvl 12 | Spell, AoE, Fire, Projectile
+Blessed Call Support | Lvl 31 | Support, Warcry, Duration
+Blight | Lvl 1 | Spell, Chaos, AoE, Channelling, Duration
+Blight of Atrophy | Lvl 1 | Spell, Chaos, AoE, Channelling, Duration
+Blight of Contagion | Lvl 1 | Spell, Chaos, AoE, Channelling, Duration
+Blind Support | Lvl 8 | Support
+Blink Arrow | Lvl 10 | Attack, Minion, Duration, Movement, Travel, Bow
+Blink Arrow of Bombarding Clones | Lvl 10 | Attack, Minion, Duration, Movement, Travel, Bow
+Blink Arrow of Prismatic Clones | Lvl 10 | Attack, Minion, Duration, Movement, Travel, Prismatic, Bow
+Block Chance Reduction Support | Lvl 18 | Support, Duration
+Blood and Sand | Lvl 4 | Spell, Stance
+Blood Rage | Lvl 16 | Spell, Duration, Physical
+Bloodlust Support | Lvl 18 | Attack, Physical, Support, Melee
+Bloodsoaked Banner Support | Lvl 72 | Exceptional, Physical, Support, Duration
+Bloodthirst Support | Lvl 31 | Attack, Physical, Support
+Bodyswap | Lvl 10 | Movement, Spell, AoE, Fire, Travel
+Bodyswap of Sacrifice | Lvl 10 | Movement, Spell, AoE, Fire, Travel, Minion
+Bone Offering | Lvl 12 | Minion, Spell, Duration
+Bonechill Support | Lvl 38 | Cold, Support
+Boneshatter | Lvl 28 | Attack, Melee, Strike, AoE, Duration, Physical
+Boneshatter of Carnage | Lvl 28 | Attack, Melee, Strike, AoE, Physical
+Boneshatter of Complex Trauma | Lvl 28 | Attack, Melee, Strike, AoE, Duration, Physical
+Bonespire Support | Lvl 72 | Exceptional, Warcry, Support, Attack, AoE, Physical, Trigger, AoE
+Brand Recall | Lvl 16 | Brand, Spell
+Brutality Support | Lvl 38 | Physical, Support
+Burning Arrow | Lvl 1 | Attack, Projectile, Fire, Bow
+Burning Arrow of Vigour | Lvl 1 | Attack, Projectile, Fire, Bow
+Burning Damage Support | Lvl 31 | Fire, Support
+Cast On Critical Strike Support | Lvl 38 | Critical, Support, Spell, Trigger
+Cast on Death Support | Lvl 38 | Support, Spell, Trigger
+Cast on Melee Kill Support | Lvl 38 | Support, Melee, Attack, Spell, Trigger
+Cast on Ward Break Support | Lvl 72 | Exceptional, Support, Spell, Trigger
+Cast when Damage Taken Support | Lvl 38 | Support, Spell, Trigger
+Cast when Stunned Support | Lvl 38 | Support, Spell, Trigger
+Cast while Channelling Support | Lvl 38 | Support, Channelling, Spell, Trigger
+Caustic Arrow | Lvl 1 | Attack, Projectile, AoE, Duration, Chaos, Bow
+Caustic Arrow of Poison | Lvl 1 | Attack, Projectile, AoE, Chaos, Bow
+Chain Hook | Lvl 12 | Attack, AoE, Movement, Melee
+Chain Hook of Trarthus | Lvl 12 | Attack, AoE, Melee
+Chain Support | Lvl 38 | Support, Chaining, Projectile
+Chance to Bleed Support | Lvl 1 | Attack, Physical, Support
+Chance to Flee Support | Lvl 8 | Support
+Chance to Poison Support | Lvl 1 | Chaos, Support
+Charged Dash | Lvl 28 | Movement, AoE, Channelling, Attack, Lightning, Melee
+Charged Dash of Projection | Lvl 28 | AoE, Channelling, Attack, Lightning, Melee
+Charged Mines Support | Lvl 31 | Critical, Support, Mine
+Charged Traps Support | Lvl 31 | Critical, Support, Trap
+Clarity | Lvl 10 | Aura, Spell, AoE
+Cleave | Lvl 1 | Attack, AoE, Melee
+Cleave of Rage | Lvl 1 | Attack, AoE, Melee
+Close Combat Support | Lvl 18 | Support, Melee, Attack, Duration
+Cluster Traps Support | Lvl 38 | Trap, Support
+Cobra Lash | Lvl 1 | Attack, Projectile, Chaos
+Cold Penetration Support | Lvl 31 | Cold, Support
+Cold Snap | Lvl 16 | Spell, AoE, Cold, Duration
+Cold Snap of Power | Lvl 16 | Critical, Spell, AoE, Cold
+Cold to Fire Support | Lvl 18 | Cold, Fire, Support
+Combustion Support | Lvl 8 | Fire, Support
+Communion Support | Lvl 72 | Exceptional, Spell, Minion, Physical, Support
+Companionship Support | Lvl 72 | Exceptional, Support, Minion
+Concentrated Effect Support | Lvl 18 | Support, AoE
+Conductivity | Lvl 24 | Spell, AoE, Duration, Lightning, Curse, Hex
+Conflagration | Lvl 28 | Attack, Fire, AoE, Projectile, Duration, Bow
+Congregation Support | Lvl 72 | Exceptional, Support, Minion
+Consecrated Path | Lvl 28 | Fire, Attack, AoE, Movement, Duration, Slam, Melee
+Consecrated Path of Endurance | Lvl 28 | Fire, Attack, AoE, Movement, Duration, Slam, Melee
+Contagion | Lvl 4 | Spell, AoE, Duration, Chaos
+Contagion of Subsiding | Lvl 4 | Spell, AoE, Duration, Chaos
+Contagion of Transference | Lvl 4 | Spell, AoE, Duration, Chaos
+Controlled Blaze Support | Lvl 31 | Fire, Support, Melee, Attack
+Controlled Destruction Support | Lvl 18 | Spell, Critical, Support
+Conversion Trap | Lvl 4 | Trap, Spell, Duration
+Convocation | Lvl 24 | Minion, Spell, Duration
+Cooldown Recovery Support | Lvl 72 | Exceptional, Support
+Corrupting Cry Support | Lvl 31 | AoE, Physical, Support, Warcry, Duration
+Corrupting Fever | Lvl 16 | Spell, Duration, Physical
+Coursing Current Support | Lvl 72 | Exceptional, Support
+Crackling Lance | Lvl 28 | Spell, AoE, Lightning
+Crackling Lance of Branching | Lvl 28 | Spell, AoE, Lightning
+Crackling Lance of Disintegration | Lvl 28 | Spell, AoE, Lightning
+Creeping Frost | Lvl 12 | Spell, Projectile, Duration, AoE, Cold
+Creeping Frost of Floes | Lvl 12 | Spell, Projectile, Duration, AoE, Cold
+Cremation | Lvl 28 | Spell, AoE, Fire, Duration, Orb, Projectile
+Cremation of Exhuming | Lvl 28 | Spell, AoE, Fire, Duration, Projectile, Orb
+Cremation of the Volcano | Lvl 28 | Spell, AoE, Fire, Duration, Projectile, Orb
+Critical Strike Affliction Support | Lvl 31 | Critical, Support
+Cruelty Support | Lvl 18 | Support, Duration
+Crushing Fist | Lvl 4 | Attack, Slam, AoE, Retaliation, Melee
+Crystalfall Support | Lvl 72 | Exceptional, Attack, Support, Slam, AoE, Melee
+Cull the Weak Support | Lvl 72 | Exceptional, Support
+Culling Strike Support | Lvl 18 | Support
+Cursed Ground Support | Lvl 31 | AoE, Duration, Support, Hex
+Cyclone | Lvl 28 | Attack, AoE, Movement, Channelling, Melee
+Cyclone of Tumult | Lvl 28 | Attack, AoE, Movement, Channelling, Melee
+Damage on Full Life Support | Lvl 18 | Attack, Support
+Dark Bargain | Lvl 28 | Minion, Spell, AoE, Chaining, Chaos, Nova
+Dark Bargain of Trarthus | Lvl 28 | Spell, AoE, Chaos, Nova
+Dash | Lvl 4 | Spell, Movement, Travel, Blink
+Deadly Ailments Support | Lvl 18 | Support
+Decay Support | Lvl 38 | Chaos, Support
+Decoy Totem | Lvl 4 | Totem, Spell, AoE
+Defiance Banner | Lvl 16 | AoE, Spell, Duration, Aura
+Desecrate | Lvl 16 | Spell, AoE, Duration, Chaos
+Despair | Lvl 24 | Spell, AoE, Duration, Chaos, Curse, Hex
+Destructive Link | Lvl 34 | Critical, Spell, Duration, Link
+Determination | Lvl 24 | Aura, Spell, AoE, Physical
+Detonate Dead | Lvl 4 | Spell, AoE, Fire
+Detonate Dead of Chain Reaction | Lvl 4 | Spell, AoE, Fire
+Detonate Dead of Scavenging | Lvl 4 | Spell, AoE, Fire
+Detonate Mines | Lvl 8 | Mine, Spell
+Devour Support | Lvl 8 | Support
+Devouring Totem | Lvl 4 | Totem, Spell
+Discharge | Lvl 28 | Spell, AoE, Fire, Cold, Lightning, Nova
+Discharge of Misery | Lvl 28 | Spell, AoE, Fire, Cold, Lightning, Nova
+Discipline | Lvl 24 | Aura, Spell, AoE
+Divine Blast | Lvl 28 | AoE, Attack, Physical, Duration, Fire
+Divine Blast of Radiance | Lvl 28 | AoE, Attack, Physical, Duration, Fire, Orb
+Divine Ire | Lvl 28 | Lightning, Spell, AoE, Channelling, Physical
+Divine Ire of Disintegration | Lvl 28 | Lightning, Spell, AoE, Channelling, Physical
+Divine Ire of Holy Lightning | Lvl 28 | Lightning, Spell, AoE, Channelling, Physical
+Divine Retribution | Lvl 16 | Spell, AoE, Lightning, Physical, Retaliation
+Divine Sentinel Support | Lvl 72 | Exceptional, AoE, Support, Minion
+Dominating Blow | Lvl 28 | Attack, Minion, Duration, Melee, Strike
+Dominating Blow of Inspiring | Lvl 28 | Attack, Minion, Duration, Melee, Strike
+Double Strike | Lvl 1 | Attack, Melee, Strike, Physical
+Double Strike of Impaling | Lvl 1 | Attack, Melee, Strike, Physical
+Double Strike of Momentum | Lvl 1 | Attack, Melee, Strike
+Dread Banner | Lvl 24 | AoE, Spell, Duration, Aura
+Dual Strike | Lvl 1 | Critical, Attack, Melee, Strike
+Dual Strike of Ambidexterity | Lvl 1 | Attack, Melee, Strike
+Earthquake | Lvl 28 | Attack, AoE, Duration, Slam, Melee
+Earthquake of Amplification | Lvl 28 | Attack, AoE, Duration, Slam, Melee
+Earthshatter | Lvl 12 | Attack, AoE, Slam, Duration, Melee
+Earthshatter of Fragility | Lvl 12 | Attack, AoE, Slam, Duration, Melee
+Earthshatter of Prominence | Lvl 12 | Attack, AoE, Slam, Duration, Melee
+Eclipse Support | Lvl 72 | Exceptional, Support
+Efficacy Support | Lvl 8 | Support, Duration
+Eldritch Blasphemy Support | Lvl 72 | Exceptional, Support, Hex, Aura
+Elemental Army Support | Lvl 31 | Support, Minion
+Elemental Damage with Attacks Support | Lvl 18 | Attack, Support
+Elemental Focus Support | Lvl 18 | Support
+Elemental Hit | Lvl 12 | Attack, Melee, Strike, Fire, Cold, Lightning, AoE, Prismatic
+Elemental Hit of the Spectrum | Lvl 12 | Attack, Projectile, Fire, Cold, Lightning, AoE, Bow
+Elemental Penetration Support | Lvl 31 | Support
+Elemental Proliferation Support | Lvl 1 | Cold, Fire, Lightning, Support, AoE
+Elemental Weakness | Lvl 24 | Spell, AoE, Duration, Curse, Hex
+Empower Support | Lvl 1 | Exceptional, Support
+Endurance Charge on Melee Stun Support | Lvl 18 | Support, Melee, Attack
+Enduring Cry | Lvl 10 | Warcry, AoE, Duration
+Energy Blade | Lvl 24 | Spell, Lightning
+Energy Leech Support | Lvl 31 | Support
+Enfeeble | Lvl 24 | Spell, AoE, Duration, Curse, Hex
+Enhance Support | Lvl 1 | Exceptional, Support
+Enlighten Support | Lvl 1 | Exceptional, Support
+Ensnaring Arrow | Lvl 16 | Attack, Projectile, AoE, Bow
+Essence Drain | Lvl 12 | Spell, Projectile, Duration, Chaos, AoE
+Essence Drain of Desperation | Lvl 12 | Spell, Projectile, Duration, Chaos, AoE
+Essence Drain of Wickedness | Lvl 12 | Spell, Projectile, Duration, Chaos, AoE
+Eternal Blessing Support | Lvl 38 | Support, Aura, Blessing
+Ethereal Knives | Lvl 1 | Spell, Projectile, Physical
+Ethereal Knives of Lingering Blades | Lvl 1 | Spell, Projectile, Physical, Duration
+Ethereal Knives of the Massacre | Lvl 1 | Spell, Projectile, Physical
+Eviscerate | Lvl 16 | Attack, AoE, Retaliation, Physical, Melee
+Excommunicate Support | Lvl 31 | Lightning, Fire, Physical, Support, Melee, Attack, Duration
+Exemplar Support | Lvl 18 | Critical, Support, Minion
+Expert Retaliation Support | Lvl 31 | Retaliation, Support
+Explosive Arrow | Lvl 28 | Attack, Projectile, AoE, Duration, Fire, Bow
+Explosive Concoction | Lvl 28 | Attack, AoE, Fire, Cold, Lightning, Projectile
+Explosive Concoction of Destruction | Lvl 28 | Critical, Attack, AoE, Fire, Cold, Lightning, Projectile
+Explosive Trap | Lvl 1 | Trap, Spell, AoE, Fire, Physical
+Explosive Trap of Magnitude | Lvl 1 | Trap, Spell, AoE, Physical
+Explosive Trap of Shrapnel | Lvl 1 | Trap, Spell, AoE, Fire, Physical
+Exsanguinate | Lvl 12 | Spell, Chaining, Physical, Duration
+Exsanguinate of Transmission | Lvl 12 | Spell, Chaining, Physical, Duration
+Eye of Winter | Lvl 28 | Spell, Projectile, Cold
+Eye of Winter of Finality | Lvl 28 | Spell, Projectile, Cold
+Eye of Winter of Transience | Lvl 28 | Spell, Projectile, Cold
+Faster Attacks Support | Lvl 8 | Attack, Support
+Faster Casting Support | Lvl 18 | Support, Spell
+Faster Projectiles Support | Lvl 31 | Support, Projectile
+Feeding Frenzy Support | Lvl 31 | Support, Minion, Duration
+Fire Penetration Support | Lvl 31 | Fire, Support
+Fire Trap | Lvl 12 | Trap, Spell, Duration, AoE, Fire
+Fire Trap of Blasting | Lvl 12 | Trap, Spell, Duration, AoE, Fire
+Fireball | Lvl 1 | Projectile, Spell, AoE, Fire
+Firestorm | Lvl 28 | Spell, AoE, Duration, Fire
+Firestorm of Meteors | Lvl 28 | Spell, AoE, Fire
+Firestorm of Pelting | Lvl 28 | Spell, AoE, Duration, Fire
+Fissure Support | Lvl 72 | Exceptional, Support, Attack, AoE, Melee, Slam, Fire, Trigger
+Fist of War Support | Lvl 38 | Slam, Attack, Melee, AoE, Support
+Flame Dash | Lvl 10 | Spell, Movement, Duration, Fire, Travel, Blink
+Flame Dash of Return | Lvl 10 | Spell, Movement, Duration, Fire
+Flame Link | Lvl 34 | Spell, Duration, Link, Fire
+Flame Surge | Lvl 12 | Spell, AoE, Fire, Duration
+Flame Surge of Combusting | Lvl 12 | Spell, AoE, Fire, Duration
+Flame Wall | Lvl 4 | Spell, AoE, Duration, Fire
+Flameblast | Lvl 28 | Spell, AoE, Fire, Channelling
+Flameblast of Celerity | Lvl 28 | Spell, AoE, Fire, Channelling
+Flameblast of Contraction | Lvl 28 | Spell, AoE, Fire, Channelling
+Flamethrower Trap | Lvl 28 | Trap, Spell, Duration, AoE, Fire
+Flamethrower Trap of Stability | Lvl 28 | Trap, Spell, Duration, AoE, Fire
+Flamewood Support | Lvl 8 | Support, Totem, Spell, AoE, Fire, Projectile, Trigger
+Flammability | Lvl 24 | Spell, AoE, Duration, Fire, Curse, Hex
+Flesh and Stone | Lvl 16 | Spell, Aura, AoE, Stance
+Flesh Offering | Lvl 12 | Minion, Spell, Duration
+Flicker Strike | Lvl 10 | Attack, Melee, Strike, Movement, Duration
+Flicker Strike of Power | Lvl 10 | Critical, Attack, Melee, Strike, Movement, Duration
+Focused Ballista Support | Lvl 31 | Projectile, Support, Totem
+Focused Channelling Support | Lvl 31 | Channelling, Spell, Support
+Forbidden Rite | Lvl 16 | Spell, AoE, Chaos, Projectile
+Forbidden Rite of Soul Sacrifice | Lvl 16 | Spell, AoE, Chaos, Projectile
+Fork Support | Lvl 31 | Support, Projectile
+Fortify Support | Lvl 31 | Attack, Support, Melee
+Foulgrasp Support | Lvl 72 | Exceptional, Brand, Support, AoE, Spell, Lightning, Trigger
+Freezing Pulse | Lvl 1 | Spell, Projectile, Cold
+Frenzy | Lvl 16 | Attack, Projectile, Bow
+Frenzy of Onslaught | Lvl 16 | Attack, Melee, Strike
+Fresh Meat Support | Lvl 18 | Critical, Support, Minion
+Frigid Bond Support | Lvl 38 | Cold, Support, Link, Duration
+Frost Blades | Lvl 1 | Attack, Projectile, Melee, Strike, Cold
+Frost Blades of Katabasis | Lvl 1 | Attack, Melee, Strike, Cold, AoE, Duration
+Frost Bomb | Lvl 4 | Spell, AoE, Duration, Cold, Orb
+Frost Bomb of Forthcoming | Lvl 4 | Spell, AoE, Duration, Cold
+Frost Bomb of Instability | Lvl 4 | Spell, AoE, Duration, Cold
+Frost Shield | Lvl 34 | Critical, Spell, AoE, Duration, Cold
+Frost Wall | Lvl 4 | Spell, Duration, Cold
+Frostbite | Lvl 24 | Spell, AoE, Duration, Cold, Curse, Hex
+Frostblink | Lvl 4 | Spell, Movement, Duration, Cold, Travel, Blink, AoE
+Frostblink of Wintry Blast | Lvl 4 | Spell, Movement, Cold, Travel, AoE
+Frostbolt | Lvl 1 | Spell, Projectile, Cold
+Frostmage Support | Lvl 72 | Exceptional, Cold, Arcane, Support, Spell
+Frozen Legion | Lvl 34 | Spell, Cold, Attack, AoE, Melee
+Frozen Legion of Rallying | Lvl 34 | Spell, Cold, Attack, AoE, Melee
+Galvanic Arrow | Lvl 1 | Lightning, Attack, Projectile, AoE, Bow
+Galvanic Arrow of Energy | Lvl 1 | Lightning, Attack, AoE, Bow
+Galvanic Arrow of Surging | Lvl 1 | Lightning, Attack, Projectile, AoE, Bow
+Galvanic Field | Lvl 16 | Spell, AoE, Duration, Lightning, Chaining, Orb
+Galvanic Field of Intensity | Lvl 16 | Spell, AoE, Duration, Lightning, Chaining, Orb
+Generals Cry | Lvl 24 | Warcry, AoE, Duration
+Generosity Support | Lvl 31 | Support, Aura
+Glacial Cascade | Lvl 28 | Spell, AoE, Cold, Physical
+Glacial Cascade of the Fissure | Lvl 28 | Spell, AoE, Cold, Physical
+Glacial Hammer | Lvl 1 | Attack, Melee, Strike, Cold
+Glacial Hammer of Shattering | Lvl 1 | Critical, Attack, Melee, Strike, Cold
+Glacial Shield Swipe | Lvl 16 | Attack, AoE, Cold, Physical, Retaliation, Melee
+Gluttony Support | Lvl 72 | Exceptional, Support, Projectile, Spell, Duration
+Grace | Lvl 24 | Aura, Spell, AoE
+Greater Ancestral Call Support | Lvl 72 | Exceptional, Support, Melee, Attack, Strike
+Greater Chain Support | Lvl 72 | Exceptional, Support, Chaining, Projectile
+Greater Devour Support | Lvl 72 | Exceptional, Support
+Greater Fork Support | Lvl 72 | Exceptional, Support, Projectile
+Greater Kinetic Instability Support | Lvl 72 | Exceptional, Critical, Support, AoE, Trigger, Attack, Duration
+Greater Multiple Projectiles Support | Lvl 38 | Support, Projectile
+Greater Multistrike Support | Lvl 72 | Exceptional, Attack, Melee, Support
+Greater Spell Cascade Support | Lvl 72 | AoE, Spell, Exceptional, Support
+Greater Spell Echo Support | Lvl 72 | Spell, Exceptional, Support
+Greater Unleash Support | Lvl 72 | Exceptional, Spell, Support
+Greater Volley Support | Lvl 38 | Support, Projectile
+Ground Slam | Lvl 1 | Attack, AoE, Slam, Melee
+Ground Slam of Earthshaking | Lvl 1 | Attack, AoE, Slam, Melee
+Guardians Blessing Support | Lvl 31 | Support, Aura, Blessing, Minion
+Hallow Support | Lvl 1 | Physical, Fire, Support, Melee, Attack
+Haste | Lvl 24 | Aura, Spell, AoE
+Hatred | Lvl 24 | Aura, Spell, AoE, Cold
+Heavy Strike | Lvl 1 | Attack, Melee, Strike
+Heavy Strike of Trarthus | Lvl 1 | Attack, Melee, Strike
+Herald of Agony | Lvl 16 | Spell, Herald, Minion, Chaos, Physical
+Herald of Ash | Lvl 16 | Spell, AoE, Fire, Herald, Duration
+Herald of Ice | Lvl 16 | Spell, AoE, Cold, Herald
+Herald of Purity | Lvl 16 | Spell, Herald, Minion, Duration, Physical
+Herald of Thunder | Lvl 16 | Spell, AoE, Duration, Lightning, Herald
+Hex Bloom Support | Lvl 38 | Support, Hex
+Hexblast | Lvl 28 | Spell, AoE, Chaos, Hex
+Hexblast of Contradiction | Lvl 28 | Spell, AoE, Chaos, Hex
+Hexblast of Havoc | Lvl 28 | Spell, AoE, Chaos, Hex
+Hexpass Support | Lvl 72 | Exceptional, Support, Hex
+Hextoad Support | Lvl 72 | Exceptional, AoE, Duration, Support, Hex, Spell, Chaos
+Hextouch Support | Lvl 38 | Support, Hex, Trigger
+High-Impact Mine Support | Lvl 31 | Mine, Support, AoE, Aura
+Hiveborn Support | Lvl 72 | Exceptional, Minion, Cold, Support, Spell, Trigger
+Holy Flame Totem | Lvl 4 | Totem, Spell, AoE, Projectile, Fire, Channelling, Physical
+Holy Flame Totem of Ire | Lvl 4 | Totem, Spell, AoE, Projectile, Fire, Channelling, Physical
+Holy Hammers | Lvl 28 | Attack, Slam, Melee, AoE, Lightning
+Holy Hammers of Spirals | Lvl 28 | Attack, Slam, Melee, AoE, Lightning
+Holy Strike | Lvl 1 | Minion, Attack, Melee, Strike, Lightning, Duration
+Holy Sweep | Lvl 12 | Attack, AoE, Melee, Lightning
+Holy Sweep of Hammerfalls | Lvl 12 | Attack, AoE, Melee, Lightning, Duration
+Hydrosphere | Lvl 34 | Spell, AoE, Duration, Cold, Orb, Lightning, Physical
+Hypothermia Support | Lvl 31 | Cold, Support
+Ice Bite Support | Lvl 31 | Cold, Support
+Ice Crash | Lvl 28 | Attack, AoE, Cold, Slam, Melee
+Ice Crash of Cadence | Lvl 28 | Attack, AoE, Cold, Slam, Melee
+Ice Nova | Lvl 12 | Spell, AoE, Cold, Nova
+Ice Nova of Deep Freeze | Lvl 12 | Spell, AoE, Cold, Nova
+Ice Nova of Frostbolts | Lvl 12 | Spell, AoE, Cold, Nova
+Ice Shot | Lvl 1 | Attack, Projectile, AoE, Cold, Bow
+Ice Shot of Penetration | Lvl 1 | Attack, Projectile, AoE, Cold, Bow
+Ice Spear | Lvl 12 | Critical, Spell, Projectile, Cold
+Ice Spear of Splitting | Lvl 12 | Spell, Projectile, Cold
+Ice Trap | Lvl 28 | Trap, Spell, AoE, Cold
+Ice Trap of Hollowness | Lvl 28 | Trap, Spell, AoE, Cold
+Icicle Mine | Lvl 12 | Mine, Critical, Spell, Projectile, Cold, Aura, AoE
+Icicle Mine of Fanning | Lvl 12 | Mine, Critical, Spell, Projectile, Cold, Aura, AoE
+Icicle Mine of Sabotage | Lvl 12 | Mine, Critical, Spell, Projectile, Cold, Aura, AoE
+Ignite Proliferation Support | Lvl 38 | Fire, Support, AoE
+Immolate Support | Lvl 38 | Fire, Support
+Immortal Call | Lvl 34 | Spell, Duration, Guard
+Impale Support | Lvl 31 | Attack, Physical, Support
+Impending Doom Support | Lvl 31 | Support, Hex, Spell, AoE, Chaos, Trigger
+Incinerate | Lvl 12 | Spell, Fire, Channelling, AoE
+Incinerate of Expanse | Lvl 12 | Spell, Fire, Channelling, AoE
+Incinerate of Venting | Lvl 12 | Spell, Fire, Channelling, AoE
+Increased Area of Effect Support | Lvl 38 | Support, AoE
+Increased Critical Damage Support | Lvl 18 | Critical, Support
+Increased Critical Strikes Support | Lvl 8 | Critical, Support
+Infernal Blow | Lvl 12 | Attack, AoE, Melee, Strike, Fire, Duration
+Infernal Blow of Immolation | Lvl 12 | Attack, AoE, Melee, Strike, Fire, Duration
+Infernal Cry | Lvl 24 | Warcry, AoE, Duration, Fire, Attack, Trigger, Melee
+Infernal Legion Support | Lvl 8 | Fire, AoE, Support, Minion
+Infused Channelling Support | Lvl 4 | Support, Channelling
+Innervate Support | Lvl 31 | Lightning, Support, Duration
+Inspiration Support | Lvl 31 | Critical, Support
+Intensify Support | Lvl 31 | AoE, Spell, Support
+Intimidating Cry | Lvl 10 | Warcry, AoE, Duration, Physical
+Intuitive Link | Lvl 34 | Trigger, Spell, Duration, Link
+Invention Support | Lvl 72 | Exceptional, Support, Trap, Mine
+Invert the Rules Support | Lvl 72 | Exceptional, Support
+Iron Grip Support | Lvl 18 | Projectile, Physical, Support
+Iron Will Support | Lvl 18 | Spell, Support
+Item Rarity Support | Lvl 31 | Support
+Kinetic Blast | Lvl 28 | Attack, Projectile, AoE
+Kinetic Blast of Clustering | Lvl 28 | Attack, Projectile, AoE, Physical
+Kinetic Bolt | Lvl 1 | Attack, Projectile
+Kinetic Bolt of Fragmentation | Lvl 1 | Attack, Projectile
+Kinetic Fusillade | Lvl 12 | Attack, Projectile, Duration, AoE
+Kinetic Fusillade of Detonation | Lvl 12 | Attack, Projectile, Duration, AoE
+Kinetic Instability Support | Lvl 18 | Support, AoE, Trigger, Attack, Duration
+Kinetic Rain | Lvl 28 | Attack, AoE, Projectile, Duration, Trigger
+Kinetic Rain of Impact | Lvl 28 | Attack, AoE, Projectile
+Knockback Support | Lvl 8 | Support
+Lacerate | Lvl 12 | Attack, AoE, Physical, Melee
+Lacerate of Butchering | Lvl 12 | Attack, AoE, Melee
+Lacerate of Haemorrhage | Lvl 12 | Attack, AoE, Physical, Melee
+Lancing Steel | Lvl 28 | Attack, Projectile, Physical
+Lancing Steel of Spraying | Lvl 28 | Attack, Projectile
+Leap Slam | Lvl 10 | Attack, AoE, Movement, Travel, Slam, Melee
+Leap Slam of Groundbreaking | Lvl 10 | Attack, AoE, Movement, Travel, Slam, Melee
+Less Duration Support | Lvl 31 | Support, Duration
+Lethal Dose Support | Lvl 72 | Exceptional, Chaos, Support
+Life Gain on Hit Support | Lvl 8 | Attack, Support
+Life Leech Support | Lvl 31 | Support
+Lifetap Support | Lvl 8 | Support, Duration
+Lightning Arrow | Lvl 12 | Attack, AoE, Projectile, Lightning, Bow
+Lightning Arrow of Electrocution | Lvl 12 | Attack, Projectile, Lightning, Bow
+Lightning Conduit | Lvl 28 | Spell, AoE, Lightning
+Lightning Conduit of the Heavens | Lvl 28 | Spell, AoE, Lightning
+Lightning Penetration Support | Lvl 31 | Lightning, Support
+Lightning Spire Trap | Lvl 28 | Trap, Critical, Spell, Duration, AoE, Lightning
+Lightning Spire Trap of Overloading | Lvl 28 | Trap, Spell, Duration, AoE, Lightning
+Lightning Spire Trap of Zapping | Lvl 28 | Trap, Spell, Duration, AoE, Lightning
+Lightning Strike | Lvl 12 | Attack, Projectile, Melee, Strike, Lightning
+Lightning Strike of Arcing | Lvl 12 | Attack, Projectile, Melee, Strike, Lightning, Chaining
+Lightning Tendrils | Lvl 1 | Spell, AoE, Lightning, Channelling
+Lightning Tendrils of Eccentricity | Lvl 1 | Critical, Spell, AoE, Lightning, Channelling
+Lightning Tendrils of Escalation | Lvl 1 | Spell, AoE, Lightning, Channelling
+Lightning Trap | Lvl 12 | Trap, Critical, Spell, Projectile, Lightning
+Lightning Trap of Sparking | Lvl 12 | Trap, Critical, Spell, Projectile, Lightning
+Lightning Warp | Lvl 10 | Spell, AoE, Duration, Movement, Lightning, Travel
+Living Lightning Support | Lvl 18 | Support
+Locus Mine Support | Lvl 8 | Bow, Attack, Support, Projectile, Mine
+Machinations Support | Lvl 72 | Exceptional, Physical, Chaos, Support
+Maim Support | Lvl 8 | Attack, Physical, Support
+Malevolence | Lvl 24 | Aura, Spell, AoE
+Mana Leech Support | Lvl 31 | Support
+Mana-Infused Staff | Lvl 16 | Arcane, Spell, AoE, Duration, Lightning
+Manabond | Lvl 12 | Spell, AoE, Lightning, Arcane
+Manaforged Arrows Support | Lvl 8 | Bow, Support, Trigger
+Mark On Hit Support | Lvl 38 | Support, Mark, Trigger
+Meat Shield Support | Lvl 31 | Support, Minion
+Melee Physical Damage Support | Lvl 18 | Melee, Physical, Support, Attack
+Melee Splash Support | Lvl 8 | Support, Melee, Attack, Strike, AoE
+Minefield Support | Lvl 38 | Support, Mine
+Minion Damage Support | Lvl 8 | Support, Minion
+Minion Life Support | Lvl 18 | Support, Minion
+Minion Speed Support | Lvl 18 | Movement, Support, Minion
+Mirage Archer Support | Lvl 4 | Bow, Attack, Support, Duration
+Mirror Arrow | Lvl 10 | Attack, Minion, Duration, Movement, Travel, Bow
+Mirror Arrow of Bombarding Clones | Lvl 10 | Attack, Minion, Duration, Movement, Travel, Bow
+Mirror Arrow of Prismatic Clones | Lvl 10 | Attack, Minion, Duration, Movement, Travel, Prismatic, Bow
+Molten Shell | Lvl 16 | Spell, AoE, Duration, Fire, Physical, Guard
+Molten Strike | Lvl 1 | Attack, Projectile, AoE, Melee, Strike, Fire
+Molten Strike of the Zenith | Lvl 1 | Attack, Projectile, AoE, Melee, Strike, Fire
+Momentum Support | Lvl 1 | Attack, Support, Duration
+More Duration Support | Lvl 31 | Support, Duration
+Multiple Projectiles Support | Lvl 8 | Support, Projectile
+Multiple Totems Support | Lvl 38 | Totem, Support
+Multiple Traps Support | Lvl 8 | Support, Trap
+Multistrike Support | Lvl 38 | Attack, Melee, Support
+Nightblade Support | Lvl 18 | Attack, Critical, Support
+Orb of Storms | Lvl 4 | Lightning, Spell, AoE, Chaining, Orb
+Orb of Storms of Squalls | Lvl 4 | Lightning, Spell, AoE, Chaining, Orb
+Overcharge Support | Lvl 18 | Lightning, Support
+Overexertion Support | Lvl 38 | Attack, Support
+Overheat Support | Lvl 72 | Exceptional, Support, Melee, Attack
+Overloaded Intensity Support | Lvl 72 | Exceptional, Spell, Critical, Support
+Pacifism Support | Lvl 72 | Exceptional, Support
+Pact of Beidat | Lvl ? | Exceptional, Projectile, Chaining, AoE, Spell, Pact
+Pact of Ghorr | Lvl ? | Exceptional, Spell, Pact, AoE, Duration, Projectile, Physical, Trigger
+Pact of K'Tash | Lvl ? | Exceptional, Spell, Pact
+Pact of Lycia | Lvl ? | Exceptional, Channelling, Spell, Pact, Lightning, AoE, Trigger
+Penance Brand | Lvl 28 | Spell, AoE, Physical, Lightning, Duration, Brand
+Penance Brand of Conduction | Lvl 28 | Spell, AoE, Physical, Lightning, Duration, Brand
+Penance Brand of Dissipation | Lvl 28 | Spell, AoE, Physical, Lightning, Duration, Brand
+Perforate | Lvl 1 | Attack, AoE, Slam, Melee
+Perforate of Bloodshed | Lvl 1 | Physical, Attack, AoE, Slam, Melee
+Perforate of Duality | Lvl 1 | Attack, AoE, Slam, Melee
+Pestilent Strike | Lvl 28 | Attack, Melee, Strike, AoE, Duration, Chaos
+Petrified Blood | Lvl 24 | Spell
+Phase Run | Lvl 34 | Spell, Duration, Movement, Physical, Travel
+Physical to Lightning Support | Lvl 18 | Lightning, Physical, Support
+Pierce Support | Lvl 1 | Support, Projectile
+Pinpoint Support | Lvl 31 | Support, Projectile, Spell
+Plague Bearer | Lvl 24 | Spell, Chaos, AoE
+Poachers Mark | Lvl 16 | Spell, Curse, Mark
+Point Blank Support | Lvl 18 | Projectile, Attack, Support
+Poisonous Concoction | Lvl 12 | Attack, AoE, Chaos, Projectile
+Poisonous Concoction of Bouncing | Lvl 12 | Attack, AoE, Chaos, Projectile, Chaining
+Portal | Lvl 10 | Spell
+Power Charge On Critical Support | Lvl 18 | Critical, Support
+Power Siphon | Lvl 12 | Critical, Attack, Projectile
+Power Siphon of the Archmage | Lvl 12 | Critical, Attack, Projectile
+Precision | Lvl 10 | Aura, Critical, Spell, AoE
+Predator Support | Lvl 18 | Support, Minion, Spell, Duration
+Pride | Lvl 24 | Spell, AoE, Aura, Physical
+Prismatic Burst Support | Lvl 1 | Support, Spell, AoE, Fire, Cold, Lightning, Prismatic, Trigger
+Protective Link | Lvl 34 | Spell, Duration, Link
+Pulverise Support | Lvl 31 | AoE, Support, Melee, Attack
+Puncture | Lvl 4 | Attack, Projectile, Duration, Physical, Bow
+Puncture of Shanking | Lvl 4 | Attack, Melee, Strike, Duration, Physical
+Punishment | Lvl 24 | Spell, AoE, Duration, Curse, Hex
+Purifying Flame | Lvl 1 | Fire, Spell, AoE, Duration, Physical
+Purifying Flame of Revelations | Lvl 1 | Fire, Spell, AoE, Duration, Physical
+Purity of Elements | Lvl 24 | Aura, Spell, AoE
+Purity of Fire | Lvl 24 | Aura, Spell, AoE, Fire
+Purity of Ice | Lvl 24 | Aura, Spell, AoE, Cold
+Purity of Lightning | Lvl 24 | Aura, Spell, AoE, Lightning
+Pyre Support | Lvl 72 | Exceptional, Support, Melee, Attack, Fire, AoE, Trigger
+Pyroclast Mine | Lvl 28 | Mine, Spell, Projectile, Fire, AoE, Aura, Nova
+Pyroclast Mine of Sabotage | Lvl 28 | Mine, Spell, Projectile, Fire, AoE, Aura, Nova
+Rage Support | Lvl 18 | Support, Melee, Attack
+Rage Vortex | Lvl 28 | Attack, AoE, Duration, Melee
+Rage Vortex of Berserking | Lvl 28 | Attack, AoE, Melee
+Rain of Arrows | Lvl 12 | Attack, AoE, Projectile, Bow
+Rain of Arrows of Artillery | Lvl 12 | Attack, AoE, Projectile, Bow
+Rain of Arrows of Saturation | Lvl 12 | Attack, AoE, Projectile, Bow
+Raise Spectre | Lvl 28 | Spell, Minion
+Raise Spectre of Transience | Lvl 28 | Spell, Minion, Duration
+Raise Zombie | Lvl 1 | Spell, Minion
+Raise Zombie of Falling | Lvl 1 | Spell, Minion
+Raise Zombie of Slamming | Lvl 1 | Spell, Minion
+Rallying Cry | Lvl 24 | Warcry, AoE, Duration
+Reap | Lvl 28 | Spell, Physical, AoE, Duration
+Reap of Butchery | Lvl 28 | Spell, Physical, AoE, Duration
+Reave | Lvl 12 | Attack, AoE, Melee
+Reave of Refraction | Lvl 12 | Attack, AoE, Melee
+Rejuvenation Totem | Lvl 4 | Totem, Aura, Spell, AoE
+Returning Projectiles Support | Lvl 38 | Support, Projectile
+Righteous Fire | Lvl 16 | Spell, AoE, Fire
+Righteous Fire of Arcane Devotion | Lvl 16 | Spell, AoE, Fire
+Rolling Magma | Lvl 1 | Spell, AoE, Fire, Projectile, Chaining
+Rupture Support | Lvl 38 | Attack, Support
+Ruthless Support | Lvl 1 | Slam, Support, Melee, Attack, Strike
+Sacred Wisps Support | Lvl 18 | Attack, Support, Trigger, Duration, Spell
+Sacrifice Support | Lvl 31 | Chaos, Support, Spell
+Sadism Support | Lvl 18 | Support
+Scorching Ray | Lvl 12 | Spell, Fire, Duration, Channelling
+Scorching Ray of Immolation | Lvl 12 | Spell, Fire, Duration, Channelling
+Scornful Herald Support | Lvl 72 | Exceptional, Critical, Support, Herald
+Scourge Arrow | Lvl 28 | Attack, Projectile, Channelling, Chaos, Bow
+Scourge Arrow of Menace | Lvl 28 | Attack, Projectile, Chaos, Bow
+Searing Bond | Lvl 12 | Spell, Totem, Fire
+Searing Bond of Detonation | Lvl 12 | Spell, Totem, Fire, AoE, Duration
+Second Wind Support | Lvl 31 | Support
+Seismic Cry | Lvl 16 | Warcry, AoE, Duration
+Seismic Trap | Lvl 28 | Trap, Spell, Duration, AoE, Physical
+Seismic Trap of Swells | Lvl 28 | Trap, Spell, AoE, Physical
+Shattering Steel | Lvl 12 | Attack, Projectile, AoE, Physical
+Shattering Steel of Ammunition | Lvl 12 | Attack, Projectile, AoE, Physical, Duration
+Shield Charge | Lvl 4 | Attack, AoE, Movement, Travel, Physical, Melee
+Shield Crush | Lvl 1 | Attack, AoE, Physical, Melee
+Shield Crush of the Chieftain | Lvl 1 | Attack, AoE, Fire, Melee
+Shield of Light | Lvl 16 | Attack, Melee, AoE, Lightning, Physical, Retaliation
+Shock Nova | Lvl 28 | Spell, AoE, Lightning, Nova
+Shock Nova of Procession | Lvl 28 | Spell, AoE, Lightning, Nova
+Shockwave Support | Lvl 18 | Support, Melee, Attack, AoE
+Shockwave Totem | Lvl 28 | Totem, Spell, AoE, Physical, Nova
+Shockwave Totem of Authority | Lvl 28 | Totem, Spell, AoE, Physical, Nova
+Shrapnel Ballista | Lvl 4 | Attack, Projectile, Totem, Bow
+Shrapnel Ballista of Steel | Lvl 4 | Attack, Projectile, Totem, Physical, Bow
+Siege Ballista | Lvl 12 | Attack, Projectile, Totem, Bow
+Siege Ballista of Splintering | Lvl 12 | Attack, Projectile, Totem, Bow
+Siege Ballista of Trarthus | Lvl 12 | Attack, Projectile, Totem, Bow
+Sigil of Power | Lvl 34 | Spell, AoE, Duration, Lightning, Arcane
+Siphoning Trap | Lvl 10 | Trap, Spell, Duration, AoE, Cold
+Siphoning Trap of Pain | Lvl 10 | Trap, Spell, Duration, AoE, Cold
+Slower Projectiles Support | Lvl 31 | Support, Projectile
+Smite | Lvl 1 | Lightning, Attack, AoE, Duration, Melee, Strike, Aura
+Smite of Divine Judgement | Lvl 1 | Lightning, Attack, AoE, Melee, Strike
+Smoke Mine | Lvl 10 | Mine, Spell, AoE, Duration, Movement, Travel, Blink
+Snipe | Lvl 34 | Attack, Projectile, Channelling, Physical, Bow
+Snipers Mark | Lvl 4 | Spell, Curse, Mark
+Somatic Shell | Lvl 28 | Duration, Physical, Attack, AoE, Projectile
+Soul Link | Lvl 34 | Spell, Duration, Link
+Soulrend | Lvl 28 | Chaos, Spell, AoE, Duration, Projectile
+Soulrend of Reaping | Lvl 28 | Chaos, Spell, Projectile
+Soulrend of the Spiral | Lvl 28 | Chaos, Spell, AoE, Duration, Projectile
+Spark | Lvl 1 | Spell, Projectile, Duration, Lightning
+Spark of the Nova | Lvl 1 | Spell, Projectile, Duration, Lightning
+Spark of Unpredictability | Lvl 1 | Spell, Projectile, Duration, Lightning
+Spectral Helix | Lvl 12 | Attack, Projectile
+Spectral Helix of Trarthus | Lvl 12 | Trap, Attack, Projectile
+Spectral Shield Throw | Lvl 28 | Attack, Projectile, Physical
+Spectral Shield Throw of Shattering | Lvl 28 | Attack, Projectile, Cold
+Spectral Shield Throw of Trarthus | Lvl 28 | Attack, Projectile, Physical
+Spectral Throw | Lvl 1 | Attack, Projectile
+Spectral Throw of Materialising | Lvl 1 | Attack, Projectile
+Spectral Throw of Trarthus | Lvl 1 | Trap, Attack, Projectile
+Spell Cascade Support | Lvl 4 | AoE, Spell, Support
+Spell Echo Support | Lvl 38 | Spell, Support
+Spell Totem Support | Lvl 8 | Support, Spell, Totem
+Spellblade Support | Lvl 38 | Support, Spell
+Spellslinger | Lvl 24 | Trigger, Spell
+Spirit Offering | Lvl 12 | Minion, Spell, Duration, Chaos
+Split Arrow | Lvl 1 | Attack, Projectile, Bow
+Split Arrow of Splitting | Lvl 1 | Attack, Projectile, Bow
+Splitting Steel | Lvl 1 | Attack, Projectile, AoE, Physical
+Splitting Steel of Ammunition | Lvl 1 | Attack, Projectile, AoE, Physical
+Static Strike | Lvl 12 | Attack, Melee, Strike, AoE, Duration, Lightning, Chaining
+Static Strike of Gathering Lightning | Lvl 12 | Attack, Melee, Strike, Duration, Lightning, Chaining
+Steelskin | Lvl 4 | Spell, Duration, Guard
+Storm Brand | Lvl 12 | Lightning, Spell, AoE, Chaining, Duration, Brand
+Storm Brand of Indecision | Lvl 12 | Lightning, Spell, AoE, Chaining, Duration, Brand
+Storm Burst | Lvl 12 | AoE, Spell, Lightning, Channelling, Duration, Physical
+Storm Burst of Repulsion | Lvl 12 | AoE, Spell, Lightning, Channelling, Duration, Physical
+Storm Call | Lvl 12 | Spell, AoE, Duration, Lightning
+Storm Call of Trarthus | Lvl 12 | Spell, AoE, Duration, Physical
+Storm Rain | Lvl 28 | Attack, AoE, Lightning, Projectile, Bow
+Storm Rain of the Conduit | Lvl 28 | Attack, AoE, Lightning, Projectile, Bow
+Storm Rain of the Fence | Lvl 28 | Attack, AoE, Lightning, Projectile, Bow
+Stormbind | Lvl 28 | Spell, AoE, Channelling, Lightning, Duration, Arcane
+Stormbind of Teleportation | Lvl 28 | Spell, AoE, Channelling, Lightning, Duration, Arcane, Movement, Travel, Blink
+Stormblast Mine | Lvl 1 | Mine, Spell, AoE, Lightning, Aura, Nova
+Stun Support | Lvl 8 | Support
+Summon Carrion Golem | Lvl 34 | Physical, Minion, Spell, Golem
+Summon Carrion Golem of Hordes | Lvl 34 | Physical, Minion, Spell, Golem
+Summon Carrion Golem of Scavenging | Lvl 34 | Physical, Minion, Spell, Golem
+Summon Chaos Golem | Lvl 34 | Chaos, Minion, Spell, Golem
+Summon Chaos Golem of Hordes | Lvl 34 | Chaos, Minion, Spell, Golem
+Summon Chaos Golem of the Maelström | Lvl 34 | Chaos, Minion, Spell, Golem
+Summon Flame Golem | Lvl 34 | Fire, Minion, Spell, Golem
+Summon Flame Golem of Hordes | Lvl 34 | Fire, Minion, Spell, Golem
+Summon Flame Golem of the Meteor | Lvl 34 | Fire, Minion, Spell, Golem
+Summon Holy Relic | Lvl 4 | Minion, Spell
+Summon Holy Relic of Conviction | Lvl 4 | Minion, Spell
+Summon Ice Golem | Lvl 34 | Critical, Cold, Minion, Spell, Golem
+Summon Ice Golem of Hordes | Lvl 34 | Cold, Minion, Spell, Golem
+Summon Ice Golem of Shattering | Lvl 34 | Cold, Minion, Spell, Golem
+Summon Lightning Golem | Lvl 34 | Lightning, Minion, Spell, Golem
+Summon Lightning Golem of Hordes | Lvl 34 | Lightning, Minion, Spell, Golem
+Summon Phantasm Support | Lvl 4 | Support, Minion
+Summon Raging Spirit | Lvl 4 | Spell, Minion, Duration, Fire
+Summon Raging Spirit of Enormity | Lvl 4 | Spell, Minion, Duration, Fire
+Summon Reaper | Lvl 28 | Physical, Minion, Spell
+Summon Reaper of Eviscerating | Lvl 28 | Physical, Minion, Spell
+Summon Reaper of Revenants | Lvl 28 | Minion, Spell
+Summon Skeletons | Lvl 10 | Spell, Minion, Duration
+Summon Skeletons of Archers | Lvl 10 | Spell, Minion, Duration
+Summon Skeletons of Mages | Lvl 10 | Spell, Minion, Duration, Prismatic
+Summon Skitterbots | Lvl 16 | Trap, Mine, Spell, Minion, Cold, Lightning, AoE, Aura
+Summon Stone Golem | Lvl 34 | Minion, Spell, Golem, Physical
+Summon Stone Golem of Hordes | Lvl 34 | Minion, Spell, Golem, Physical
+Summon Stone Golem of Safeguarding | Lvl 34 | Minion, Spell, Golem, Physical
+Sunder | Lvl 12 | Attack, AoE, Slam, Melee
+Sunder of Earthbreaking | Lvl 12 | Attack, AoE, Slam, Melee
+Sunder of Trarthus | Lvl 12 | Attack, AoE, Slam, Melee
+Swift Affliction Support | Lvl 31 | Support, Duration
+Swift Assembly Support | Lvl 4 | Support, Trap, Mine
+Swiftbrand Support | Lvl 31 | Brand, Support
+Swordstorm | Lvl 16 | Attack, AoE, Retaliation, Melee
+Tectonic Slam | Lvl 28 | Fire, Attack, AoE, Slam, Melee
+Tectonic Slam of Cataclysm | Lvl 28 | Fire, Attack, AoE, Slam, Melee
+Tempest Shield | Lvl 16 | Spell, Lightning, Chaining
+Temporal Chains | Lvl 24 | Spell, AoE, Duration, Curse, Hex
+Temporal Rift | Lvl 34 | Spell
+Thunderstorm | Lvl 28 | Attack, AoE, Duration, Lightning, Bow, Projectile, Trigger
+Tornado | Lvl 34 | Spell, Duration, Physical, AoE, Orb
+Tornado of Elemental Turbulence | Lvl 34 | Spell, Duration, Physical, AoE, Orb, Fire, Cold, Lightning, Prismatic
+Tornado Shot | Lvl 28 | Attack, Projectile, Bow
+Tornado Shot of Cloudburst | Lvl 28 | Attack, Projectile, Bow
+Toxic Rain | Lvl 12 | Attack, AoE, Chaos, Duration, Projectile, Bow
+Toxic Rain of Sporeburst | Lvl 12 | Attack, AoE, Chaos, Duration, Projectile, Bow
+Toxic Rain of Withering | Lvl 12 | Attack, AoE, Chaos, Duration, Projectile, Bow
+Transfusion Support | Lvl 72 | Exceptional, Spell, Minion, Support
+Trap and Mine Damage Support | Lvl 18 | Support, Trap, Mine
+Trap Support | Lvl 8 | Support, Trap
+Trauma Support | Lvl 38 | Physical, Support, Melee, Attack, Strike, Duration
+Trinity Support | Lvl 18 | Support
+Unbound Ailments Support | Lvl 8 | Support
+Unearth | Lvl 10 | Spell, Projectile, AoE, Physical
+Unholy Trinity Support | Lvl 72 | Exceptional, Spell, Minion, Physical, Support
+Unleash Support | Lvl 38 | Spell, Support
+Urgent Orders Support | Lvl 31 | Warcry, Support
+Vaal Absolution | Lvl 12 | Spell, Minion, Duration, Physical, Lightning, Vaal, AoE
+Vaal Animate Weapon | Lvl 4 | Duration, Minion, Spell, Vaal, Physical
+Vaal Arc | Lvl 12 | Vaal, Spell, Chaining, Lightning, Duration
+Vaal Arctic Armour | Lvl 16 | Spell, Duration, Cold, Vaal
+Vaal Blade Flurry | Lvl 28 | Attack, AoE, Channelling, Vaal, Melee
+Vaal Blade Vortex | Lvl 12 | Critical, Vaal, Spell, AoE, Duration, Physical
+Vaal Blight | Lvl 1 | Vaal, Spell, Chaos, AoE, Duration, Nova, Channelling
+Vaal Breach | Lvl 10 | Vaal, Spell
+Vaal Burning Arrow | Lvl 1 | Vaal, Attack, Projectile, AoE, Fire, Bow
+Vaal Caustic Arrow | Lvl 1 | Attack, Projectile, AoE, Duration, Chaos, Vaal, Bow
+Vaal Clarity | Lvl 10 | Aura, Vaal, Spell, AoE, Duration
+Vaal Cleave | Lvl 1 | Attack, AoE, Vaal, Duration, Melee
+Vaal Cold Snap | Lvl 16 | Vaal, Spell, AoE, Duration, Cold
+Vaal Cyclone | Lvl 28 | Vaal, Attack, AoE, Duration, Melee, Movement, Channelling
+Vaal Detonate Dead | Lvl 4 | Vaal, Spell, AoE, Fire
+Vaal Discipline | Lvl 24 | Aura, Vaal, Spell, AoE, Duration
+Vaal Domination | Lvl 28 | Spell, Minion, Duration, Vaal, Attack, Melee, Strike
+Vaal Double Strike | Lvl 1 | Vaal, Attack, Melee, Strike, Duration, Physical
+Vaal Earthquake | Lvl 28 | Vaal, Attack, AoE, Duration, Slam, Melee
+Vaal Fireball | Lvl 1 | Vaal, Projectile, Spell, AoE, Fire
+Vaal Firestorm | Lvl 28 | Spell, AoE, Duration, Fire, Vaal
+Vaal Flameblast | Lvl 28 | Vaal, Spell, AoE, Fire, Channelling
+Vaal Flicker Strike | Lvl 10 | Attack, Melee, Strike, Movement, Vaal, Duration
+Vaal Glacial Hammer | Lvl 1 | Vaal, Attack, Melee, Strike, Duration, AoE, Cold
+Vaal Grace | Lvl 24 | Aura, Vaal, Spell, AoE, Duration
+Vaal Ground Slam | Lvl 1 | Vaal, Attack, AoE, Slam, Melee
+Vaal Haste | Lvl 24 | Aura, Vaal, Spell, AoE, Duration
+Vaal Ice Nova | Lvl 12 | Vaal, Spell, AoE, Cold, Nova
+Vaal Ice Shot | Lvl 1 | Attack, AoE, Projectile, Cold, Vaal, Duration, Bow
+Vaal Impurity of Fire | Lvl 24 | Aura, Vaal, Spell, AoE, Duration, Fire
+Vaal Impurity of Ice | Lvl 24 | Aura, Vaal, Spell, AoE, Duration, Cold
+Vaal Impurity of Lightning | Lvl 24 | Aura, Vaal, Spell, AoE, Duration, Lightning
+Vaal Lightning Arrow | Lvl 12 | Attack, AoE, Projectile, Lightning, Vaal, Bow
+Vaal Lightning Strike | Lvl 12 | Vaal, Attack, Melee, Strike, Duration, Lightning, Projectile
+Vaal Lightning Trap | Lvl 12 | Trap, Critical, Vaal, Spell, Projectile, Duration, Lightning
+Vaal Molten Shell | Lvl 16 | Vaal, Spell, AoE, Duration, Fire, Physical, Guard
+Vaal Molten Strike | Lvl 1 | Attack, Projectile, AoE, Melee, Strike, Fire, Chaining, Vaal
+Vaal Power Siphon | Lvl 12 | Critical, Vaal, Attack, Projectile
+Vaal Rain of Arrows | Lvl 12 | Vaal, Attack, AoE, Projectile, Bow
+Vaal Reap | Lvl 28 | Spell, Physical, AoE, Duration, Vaal
+Vaal Reave | Lvl 12 | Vaal, Attack, AoE, Melee
+Vaal Rejuvenation Totem | Lvl 4 | Totem, Aura, Spell, AoE, Vaal
+Vaal Righteous Fire | Lvl 16 | Vaal, Spell, AoE, Fire, Duration
+Vaal Sacrifice Support | Lvl 72 | Exceptional, Spell, Support, Vaal
+Vaal Smite | Lvl 1 | Lightning, Attack, AoE, Duration, Melee, Strike, Aura, Vaal
+Vaal Spark | Lvl 1 | Vaal, Spell, Projectile, Duration, Lightning
+Vaal Spectral Throw | Lvl 1 | Vaal, Attack, Projectile
+Vaal Storm Call | Lvl 12 | Vaal, Spell, AoE, Duration, Lightning
+Vaal Summon Skeletons | Lvl 10 | Vaal, Spell, Minion, Duration
+Vaal Temptation Support | Lvl 72 | Exceptional, Support, Vaal
+Vaal Venom Gyre | Lvl 12 | Attack, Projectile, Chaos, Duration, Vaal
+Vaal Volcanic Fissure | Lvl 12 | Melee, Attack, Projectile, AoE, Slam, Fire, Vaal
+Vampiric Link | Lvl 34 | Spell, Duration, Link
+Vengeful Cry | Lvl 24 | Warcry, AoE, Duration, Retaliation
+Venom Gyre | Lvl 12 | Attack, Projectile, Chaos, Duration
+Vicious Projectiles Support | Lvl 18 | Projectile, Attack, Physical, Chaos, Support
+Vigilant Strike | Lvl 4 | Attack, Melee, Strike
+Vile Toxins Support | Lvl 38 | Support
+Viper Strike | Lvl 1 | Attack, Duration, Melee, Strike, Chaos
+Viper Strike of the Mamba | Lvl 1 | Attack, Duration, Melee, Strike, Chaos
+Vitality | Lvl 10 | Aura, Spell, AoE
+Void Manipulation Support | Lvl 8 | Chaos, Support
+Void Shockwave Support | Lvl 72 | Exceptional, Support, Melee, Attack, AoE
+Void Sphere | Lvl 34 | Spell, AoE, Duration, Physical, Chaos, Orb
+Void Sphere of Rending | Lvl 34 | Spell, AoE, Duration, Physical, Chaos, Orb
+Voidstorm Support | Lvl 72 | Exceptional, Support, Attack, AoE, Duration, Bow
+Volatile Dead | Lvl 12 | Spell, AoE, Fire
+Volatile Dead of Confinement | Lvl 12 | Spell, AoE, Fire, Duration
+Volatile Dead of Seething | Lvl 12 | Spell, AoE, Fire
+Volatility Support | Lvl 18 | Attack, Support
+Volcanic Fissure | Lvl 12 | Melee, Attack, Projectile, AoE, Slam, Fire
+Volcanic Fissure of Snaking | Lvl 12 | Melee, Attack, AoE, Slam, Fire
+Volley Support | Lvl 4 | Support, Projectile
+Voltaxic Burst | Lvl 12 | Spell, AoE, Chaos, Lightning, Nova, Duration
+Vortex | Lvl 28 | Spell, AoE, Cold, Duration, Nova
+Vortex of Projection | Lvl 28 | Spell, AoE, Cold, Duration, Nova
+Vulnerability | Lvl 24 | Spell, AoE, Duration, Curse, Physical, Hex
+Wall of Force | Lvl 16 | Spell, Duration
+War Banner | Lvl 4 | AoE, Spell, Duration, Aura, Physical
+Warlords Mark | Lvl 16 | Spell, Curse, Mark
+Wave of Conviction | Lvl 16 | Fire, Lightning, Spell, AoE, Duration, Physical
+Wave of Conviction of Trarthus | Lvl 16 | Spell, AoE, Duration, Physical, Fire, Nova
+Whirling Blades | Lvl 10 | Attack, Movement, Travel, Melee
+Wild Strike | Lvl 28 | Attack, Melee, Strike, Lightning, Cold, Fire, Projectile, AoE, Chaining, Prismatic
+Wild Strike of Extremes | Lvl 28 | Attack, Melee, Strike, Lightning, Cold, Fire, Projectile, AoE, Chaining, Prismatic
+Windburst Support | Lvl 31 | Attack, Support, Projectile, Trigger, AoE, Duration, Bow
+Winter Orb | Lvl 28 | Cold, Spell, Channelling, AoE, Duration, Projectile, Orb
+Wintertide Brand | Lvl 12 | Spell, AoE, Cold, Duration, Brand
+Wither | Lvl 10 | Spell, AoE, Duration, Chaos, Channelling
+Withering Step | Lvl 10 | Travel, AoE, Chaos, Movement, Blink, Spell, Duration
+Withering Touch Support | Lvl 38 | Chaos, Physical, Attack, Support, Duration
+Wrath | Lvl 24 | Aura, Spell, AoE, Lightning
+Zealotry | Lvl 24 | Aura, Critical, Spell, AoE

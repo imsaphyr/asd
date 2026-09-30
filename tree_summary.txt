@@ -1,0 +1,1548 @@
+# Passive Tree Summary - patch 3.29.1
+
+## CLASSES AND START NODES
+Scion  ->  ascendancies: Ascendant, Reliquarian, Luminary
+Marauder  ->  ascendancies: Juggernaut, Berserker, Chieftain
+Ranger  ->  ascendancies: Warden, Deadeye, Pathfinder
+Witch  ->  ascendancies: Occultist, Elementalist, Necromancer
+Duelist  ->  ascendancies: Slayer, Gladiator, Champion
+Templar  ->  ascendancies: Inquisitor, Hierophant, Guardian
+Shadow  ->  ascendancies: Assassin, Trickster, Saboteur
+
+## KEYSTONES
+[58556] Divine Shield
+    Cannot Recover Energy Shield to above Armour
+3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second
+[19732] The Agnostic
+    Removes all Energy Shield
+While not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life
+[31961] Resolute Technique
+    Your hits can't be Evaded
+Never deal Critical Strikes
+[41970] Ancestral Bond
+    You can't deal Damage with Skills yourself
++1 to maximum number of Summoned Totems
+[57279] Blood Magic
+    Removes all mana
+10% more maximum Life
+Skills Cost Life instead of Mana
+Skills Reserve Life instead of Mana
+[63425] Zealot's Oath
+    Life Regeneration is applied to Energy Shield instead
+[44941] Avatar of Fire
+    50% of Physical, Cold and Lightning Damage Converted to Fire Damage
+Deal no Non-Fire Damage
+[39713] Glancing Blows
+    Chance to Block Attack Damage is doubled
+Chance to Block Spell Damage is doubled
+You take 65% of Damage from Blocked Hits
+[42343] Runebinder
+    -1 to maximum number of Summoned Totems
+You can have an additional Brand Attached to an Enemy
+[23090] Call to Arms
+    Your Warcries do not grant Buffs or Charges to You
+100% more Warcry Duration
+[21210] Arsenal of Vengeance
+    Damaging Retaliation Skills become Usable every sixth Hit from Enemies instead
+[21650] Eternal Youth
+    50% less Life Regeneration Rate
+50% less maximum Total Life Recovery per Second from Leech
+Energy Shield Recharge instead applies to Life
+[24720] Imbalanced Guard
+    100% chance to Defend with 200% of Armour
+Maximum Damage Reduction for any Damage Type is 50%
+[22088] Elemental Overload
+    Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments
+Your Critical Strikes do not deal extra Damage
+Ailments never count as being from Critical Strikes
+[34098] Mind Over Matter
+    40% of Damage is taken from Mana before Life
+[57257] The Impaler
+    When your Hits Impale Enemies, also Impale other Enemies near them
+Inflict 5 additional Impales on Enemies you Impale
+For 5 seconds after you Impale Enemies, they cannot be Impaled again, and Impales cannot be Called from them
+[40907] Unwavering Stance
+    Cannot Evade enemy Attacks
+Cannot be Stunned
+[17818] Crimson Dance
+    You can inflict Bleeding on an Enemy up to 8 times
+Your Bleeding does not deal extra Damage while the Enemy is moving and cannot be Aggravated
+50% less Damage with Bleeding
+[50288] Iron Will
+    Strength's Damage bonus applies to all Spell Damage as well
+[50679] Versatile Combatant
+    -10% to maximum Chance to Block Attack Damage
+-10% to maximum Chance to Block Spell Damage
++2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage
+[63903] Voracious Flame
+    You can inflict an additional Ignite on each Enemy
+Base Ignite Duration is 1 second
+25% less Damage with Ignite
+Cannot deal non-Fire Damage
+[12926] Iron Grip
+    Strength's Damage bonus applies to Projectile Attack Damage as well as Melee Damage
+[45175] Necromantic Aegis
+    All bonuses from an Equipped Shield apply to your Minions instead of you
+[27781] Worship the Blightheart
+    Create Fungal Ground instead of Consecrated Ground
+[40351] Roiling Tempest
+    25% more Maximum Lightning Damage
+50% less Minimum Lightning Damage
+Cannot deal non-Lightning Damage
+[60247] Solipsism
+    Intelligence provides no inherent bonus to Energy Shield
+2% reduced Duration of Elemental Ailments on you per 15 Intelligence
+[56116] Magebane
+    Dexterity provides no inherent bonus to Evasion Rating
++1% Chance to Suppress Spell Damage per 15 Dexterity
+[10661] Iron Reflexes
+    Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating
+[12128] Bitter Frost
+    Enemies Chilled by your Hits have Cold Damage taken increased by Chill Effect
+Enemies in your Chilling Areas have Cold Damage taken increased by Chill Effect
+Cannot deal non-Cold Damage
+[18663] Minion Instability
+    Minions Explode when reduced to Low Life, dealing 33% of their Life as Fire Damage to surrounding Enemies
+[23540] Conduit
+    Share Endurance, Frenzy and Power Charges with nearby party members
+[10808] Vaal Pact
+    Life Leech from Melee Damage is Instant
+Cannot Recover Life other than from Leech
+[23950] Wicked Ward
+    Energy Shield Recharge is not interrupted by Damage if Recharge began Recently
+40% less Energy Shield Recharge Rate
+[39085] Elemental Equilibrium
+    Hits that deal Elemental Damage remove Exposure to those Elements and inflict Exposure to other Elements
+Exposure inflicted this way applies -25% to Resistances
+[31703] Pain Attunement
+    30% more Spell Damage when on Low Life
+[13019] Bloodsoaked Blade
+    Tinctures inflict Weeping Wounds instead of Mana Burn
+Effects that interact with Mana Burn interact with Weeping Wounds instead
+[43988] Hex Master
+    Your Hexes have infinite Duration
+20% less Effect of your Curses
+[56075] Eldritch Battery
+    Spend Energy Shield before Mana for Skill Mana Costs
+Energy Shield protects Mana instead of Life
+50% less Energy Shield Recharge Rate
+[49639] Supreme Ego
+    Auras from your Skills can only affect you
+Aura Skills have 1% more Aura Effect per 2% of maximum Mana they Reserve
+40% more Mana Reservation of Aura Skills
+[63620] Precise Technique
+    40% more Attack Damage if Accuracy Rating is higher than Maximum Life
+Never deal Critical Strikes
+[42178] Point Blank
+    Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther
+[11239] Wind Dancer
+    20% less Attack Damage taken if you haven't been Hit by an Attack Recently
+10% more chance to Evade Attacks if you have been Hit by an Attack Recently
+20% more Attack Damage taken if you have been Hit by an Attack Recently
+[11455] Chaos Inoculation
+    Maximum Life becomes 1, Immune to Chaos Damage
+[62791] Lethe Shade
+    Take 50% less Damage over Time if you've started taking Damage over Time in the past second
+100% more Duration of Ailments on you
+[54922] Arrow Dancing
+    Evasion Rating is Doubled against Projectile Attacks
+25% less Evasion Rating against Melee Attacks
+[35255] Ghost Dance
+    Cannot Recover Energy Shield to above Evasion Rating
+Every 2 seconds, gain a Ghost Shroud, up to a maximum of 3
+When Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating
+[24426] Ghost Reaver
+    Leech Energy Shield instead of Life
+Maximum total Energy Shield Recovery per second from Leech is doubled
+Cannot Recharge Energy Shield
+[54307] Acrobatics
+    Modifiers to Chance to Suppress Spell Damage instead apply to Chance to Dodge Spell Hits at 50% of their value
+Maximum Chance to Dodge Spell Hits is 75%
+[23407] Perfect Agony
+    Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier
+Critical Strikes do not deal extra Damage
+Non-Critical Strikes cannot inflict Ailments
+[12953] Disciple of Kitava
+    Every second, Consume a nearby Corpse to Recover 5% of Life and Mana
+10% more Damage taken if you haven't Consumed a Corpse Recently
+[3354] Lone Messenger
+    You can only have one Herald
+50% more Effect of Herald Buffs on you
+100% more Damage with Hits from Herald Skills
+50% more Damage Over Time with Herald Skills
+Minions from Herald Skills deal 25% more Damage
+Your Aura Skills are Disabled
+[30847] Nature's Patience
+    Gain 2 Grasping Vines each second while stationary
+2% chance to deal Double Damage per Grasping Vine
+1% less Damage taken per Grasping Vine
+[57280] Secrets of Suffering
+    Cannot Ignite, Chill, Freeze or Shock
+Critical Strikes inflict Scorch, Brittle and Sapped
+[40561] Kineticism
+    Attack Projectiles always inflict Bleeding and Maim, and Knock Back Enemies
+Projectiles cannot Pierce, Fork or Chain
+[32118] Veteran's Awareness
+    +10% to all Elemental Resistances and maximum Elemental Resistances while affected by a Non-Vaal Guard Skill
+20% additional Physical Damage Reduction while affected by a Non-Vaal Guard Skill
+20% more Damage taken if a Non-Vaal Guard Buff was lost Recently
+[60069] Hollow Palm Technique
+    You count as Dual Wielding while you are Unencumbered
+40% more Attack Speed with Melee Skills while you are Unencumbered
+Adds 14 to 20 Attack Physical Damage to Melee Skills per 10 Dexterity while you are Unencumbered
+[37081] Pitfighter
+    1% increased Fishing Line Strength
+
+## MASTERYS
+[44298] Elemental Mastery
+[63184] Sword Mastery
+[24224] Axe Mastery
+[62416] Staff Mastery
+[60992] Warcry Mastery
+[14832] Mace Mastery
+[26037] Retaliation Mastery
+[43647] Minion Offence Mastery
+[16810] Shield Mastery
+[27235] Recovery Mastery
+[48144] Link Mastery
+[31292] Mace Mastery
+[27157] Accuracy Mastery
+[43601] Bleeding Mastery
+[52074] Impale Mastery
+[38320] Fire Mastery
+[38377] Totem Mastery
+[9471] Rage Mastery
+[33823] Critical Mastery
+[34487] Totem Mastery
+[44948] Mana Mastery
+[53517] Recovery Mastery
+[64406] Armour Mastery
+[32242] Banner Mastery
+[4139] Life Mastery
+[37641] Armour and Energy Shield Mastery
+[30393] Armour and Energy Shield Mastery
+[41415] Life Mastery
+[52220] Physical Mastery
+[2841] Mana Mastery
+[11505] Fire Mastery
+[47197] Reservation Mastery
+[58728] Retaliation Mastery
+[48717] Armour Mastery
+[22480] Block Mastery
+[35977] Warcry Mastery
+[40439] Brand Mastery
+[25031] Warcry Mastery
+[42792] Protection Mastery
+[32241] Life Mastery
+[48349] Staff Mastery
+[48505] Life Mastery
+[28862] Leech Mastery
+[7528] Rage Mastery
+[55017] Retaliation Mastery
+[16123] Critical Mastery
+[28284] Attributes Mastery
+[38921] Block Mastery
+[5368] Block Mastery
+[63268] Fire Mastery
+[27931] Mace Mastery
+[22295] Bleeding Mastery
+[14505] Minion Offence Mastery
+[6968] Staff Mastery
+[25535] Shield Mastery
+[48267] Fire Mastery
+[59013] Mace Mastery
+[25313] Caster Mastery
+[22067] Damage Over Time Mastery
+[58540] Axe Mastery
+[41744] Retaliation Mastery
+[9213] Link Mastery
+[37698] Stun Mastery
+[54849] Minion Offence Mastery
+[59335] Fortify Mastery
+[61529] Recovery Mastery
+[62023] Stun Mastery
+[25011] Life Mastery
+[10245] Attack Mastery
+[8460] Warcry Mastery
+[52462] Armour Mastery
+[52875] Attack Mastery
+[13712] Reservation Mastery
+[45558] Shield Mastery
+[5726] Elemental Mastery
+[48290] Minion Defence Mastery
+[56595] Attack Mastery
+[54340] Armour Mastery
+[53216] Stun Mastery
+[25934] Two Hand Mastery
+[38595] Accuracy Mastery
+[5230] Staff Mastery
+[61992] Minion Offence Mastery
+[37911] Fire Mastery
+[35321] Banner Mastery
+[50540] Curse Mastery
+[40698] Rage Mastery
+[26697] Sword Mastery
+[64128] Reservation Mastery
+[39332] Staff Mastery
+[17127] Protection Mastery
+[3471] Energy Shield Mastery
+[12503] Protection Mastery
+[39416] Minion Offence Mastery
+[33657] Protection Mastery
+[4424] Axe Mastery
+[8556] Attack Mastery
+[35221] Accuracy Mastery
+[35038] Wand Mastery
+[2828] Damage Over Time Mastery
+[12169] Physical Mastery
+[17945] Damage Over Time Mastery
+[61343] Brand Mastery
+[35118] Two Hand Mastery
+[27307] Energy Shield Mastery
+[6912] Two Hand Mastery
+[51583] Critical Mastery
+[43818] Life Mastery
+[23547] Chaos Mastery
+[61785] Curse Mastery
+[63710] Bleeding Mastery
+[48982] Impale Mastery
+[10729] Energy Shield Mastery
+[18750] Flask Mastery
+[12244] Link Mastery
+[8732] Mana Mastery
+[43307] Banner Mastery
+[240] Lightning Mastery
+[37956] Bleeding Mastery
+[62015] Warcry Mastery
+[31400] Impale Mastery
+[34723] Charge Mastery
+[21143] Brand Mastery
+[26608] Totem Mastery
+[52061] Rage Mastery
+[12239] Physical Mastery
+[34552] Minion Offence Mastery
+[38436] Shield Mastery
+[4327] Retaliation Mastery
+[51974] Fortify Mastery
+[65395] Mana Mastery
+[27733] Caster Mastery
+[35859] Leech Mastery
+[28680] Caster Mastery
+[11596] Mace Mastery
+[63559] Mana Mastery
+[5348] Elemental Mastery
+[12382] Life Mastery
+[8629] Attack Mastery
+[12125] Life Mastery
+[26154] Warcry Mastery
+[22959] Curse Mastery
+[62588] Life Mastery
+[22970] Minion Defence Mastery
+[53188] Mana Mastery
+[41522] Duration Mastery
+[34927] Fire Mastery
+[37795] Shield Mastery
+[25186] Mana Mastery
+[65154] Totem Mastery
+[19750] Armour and Evasion Mastery
+[45358] Armour Mastery
+[27193] Recovery Mastery
+[32509] Caster Mastery
+[58816] Lightning Mastery
+[18240] Energy Shield Mastery
+[4707] Charge Mastery
+[57949] Damage Over Time Mastery
+[39836] Reservation Mastery
+[13862] Mana Mastery
+[48859] Mana Mastery
+[51761] Dual Wielding Mastery
+[29993] Duration Mastery
+[45019] Flask Mastery
+[60170] Cold Mastery
+[24334] Link Mastery
+[48007] Mana Mastery
+[39338] Two Hand Mastery
+[23796] Curse Mastery
+[28863] Attack Mastery
+[56128] Wand Mastery
+[47059] Impale Mastery
+[38235] Life Mastery
+[46665] Flask Mastery
+[50757] Evasion Mastery
+[6507] Reservation Mastery
+[59926] Mine Mastery
+[26393] Minion Defence Mastery
+[52018] Dual Wielding Mastery
+[24552] Bow Mastery
+[45372] Attack Mastery
+[9083] Minion Defence Mastery
+[24481] Recovery Mastery
+[21324] Block Mastery
+[55281] Banner Mastery
+[35085] Critical Mastery
+[60512] Caster Mastery
+[41273] Damage Over Time Mastery
+[63482] Lightning Mastery
+[55348] Attack Mastery
+[47242] Minion Offence Mastery
+[41225] Minion Defence Mastery
+[6338] Energy Shield Mastery
+[40196] Caster Mastery
+[19749] Fire Mastery
+[17906] Trap Mastery
+[33678] Charge Mastery
+[25446] Leech Mastery
+[49677] Impale Mastery
+[62506] Curse Mastery
+[25349] Bow Mastery
+[28039] Axe Mastery
+[17380] Cold Mastery
+[4492] Attributes Mastery
+[62235] Armour and Evasion Mastery
+[25281] Life Mastery
+[40271] Fire Mastery
+[55230] Leech Mastery
+[48411] Wand Mastery
+[50071] Dual Wielding Mastery
+[33037] Attack Mastery
+[55152] Totem Mastery
+[44330] Tincture Mastery
+[42533] Accuracy Mastery
+[32278] Minion Offence Mastery
+[59501] Blind Mastery
+[9586] Critical Mastery
+[53828] Wand Mastery
+[38207] Cold Mastery
+[14113] Caster Mastery
+[12873] Protection Mastery
+[3883] Evasion Mastery
+[31818] Protection Mastery
+[46495] Reservation Mastery
+[10204] Sword Mastery
+[53615] Reservation Mastery
+[58563] Mark Mastery
+[21801] Chaos Mastery
+[60834] Damage Over Time Mastery
+[37502] Bow Mastery
+[6588] Stun Mastery
+[3042] Life Mastery
+[53738] Mine Mastery
+[10166] Mine Mastery
+[7023] Cold Mastery
+[9458] Flask Mastery
+[10141] Recovery Mastery
+[62853] Dagger Mastery
+[41016] Flask Mastery
+[43495] Leech Mastery
+[46761] Flask Mastery
+[15409] Dagger Mastery
+[14122] Lightning Mastery
+[38622] Tincture Mastery
+[17411] Caster Mastery
+[8370] Attributes Mastery
+[13387] Elemental Mastery
+[44206] Tincture Mastery
+[20730] Spell Suppression Mastery
+[40170] Bleeding Mastery
+[55491] Reservation Mastery
+[11032] Evasion and Energy Shield Mastery
+[38579] Poison Mastery
+[89] Mine Mastery
+[54413] Spell Suppression Mastery
+[56865] Mark Mastery
+[65528] Evasion Mastery
+[53365] Claw Mastery
+[6570] Curse Mastery
+[40383] Leech Mastery
+[12518] Claw Mastery
+[8872] Dual Wielding Mastery
+[4788] Claw Mastery
+[60210] Poison Mastery
+[47212] Projectile Mastery
+[56023] Projectile Mastery
+[41163] Evasion Mastery
+[6384] Leech Mastery
+[47294] Damage Over Time Mastery
+[857] Energy Shield Mastery
+[37616] Trap Mastery
+[44540] Trap Mastery
+[20675] Physical Mastery
+[27865] Bow Mastery
+[19725] Stun Mastery
+[34317] Elemental Mastery
+[9393] Flask Mastery
+[44179] Cold Mastery
+[38568] Blind Mastery
+[42361] Chaos Mastery
+[48660] Elemental Mastery
+[63861] Critical Mastery
+[16141] Leech Mastery
+[27371] Evasion Mastery
+[44316] Life Mastery
+[1215] Evasion and Energy Shield Mastery
+[7488] Leech Mastery
+[10495] Mana Mastery
+[292] Life Mastery
+[37532] Lightning Mastery
+[64042] Physical Mastery
+[1205] Poison Mastery
+[49820] Spell Suppression Mastery
+[54887] Cold Mastery
+[62759] Mark Mastery
+[20736] Flask Mastery
+[15697] Tincture Mastery
+[31039] Critical Mastery
+[58302] Accuracy Mastery
+[31197] Dagger Mastery
+[49391] Attack Mastery
+[10414] Recovery Mastery
+[26148] Accuracy Mastery
+[48508] Totem Mastery
+[27872] Mine Mastery
+[3571] Mana Mastery
+[56519] Tincture Mastery
+[32657] Mark Mastery
+[7634] Dagger Mastery
+[19050] Claw Mastery
+[28903] Poison Mastery
+[10429] Trap Mastery
+[31291] Sword Mastery
+[5826] Projectile Mastery
+[6427] Bow Mastery
+[44810] Axe and Sword Damage Mastery
+[43130] Mace and Staff Damage Mastery
+[42783] Dagger and Claw Damage Mastery
+[54935] Bow Damage Mastery
+[38334] Wand Damage Mastery
+[52606] Damage with Two Handed Melee Weapons Mastery
+[44100] Attack Damage while Dual Wielding Mastery
+[25429] Attack Damage while holding a Shield Mastery
+[54888] Attack Damage Mastery
+[21841] Spell Damage Mastery
+[44078] Elemental Damage Mastery
+[58618] Physical Damage Mastery
+[43904] Fire Damage Mastery
+[15015] Lightning Damage Mastery
+[37977] Cold Damage Mastery
+[12117] Chaos Damage Mastery
+[16351] Minion Damage Mastery
+[57049] Fire Damage over Time Multiplier Mastery
+[40036] Chaos Damage over Time Multiplier Mastery
+[20314] Physical Damage over Time Multiplier Mastery
+[40966] Cold Damage over Time Multiplier Mastery
+[48978] Damage over Time Multiplier Mastery
+[45462] Effect of Non-Damaging Ailments Mastery
+[2054] Aura Effect Mastery
+[32642] Curse Effect Mastery
+[33431] Damage while you have a Herald Mastery
+[37971] Minion Damage while you have a Herald Mastery
+[10118] Warcry Buff Effect Mastery
+[2510] Critical Chance Mastery
+[14933] Minion Life Mastery
+[63454] Area Damage Mastery
+[7883] Projectile Damage Mastery
+[45474] Trap and Mine Damage Mastery
+[16808] Totem Damage Mastery
+[49424] Brand Damage Mastery
+[10576] Channelling Skill Damage Mastery
+[27397] Flask Duration Mastery
+[45259] Life and Mana recovery from Flasks Mastery
+
+## NOTABLES (997 total)
+[28609] Conjoined Spire
+[16287] Bone Feeders
+[57472] Gaze of the Lich
+[9437]  Precursor's Release
+[10696] Legacy of the King
+[35011] Huntleader
+[48251] Primal Roar
+[15739] Farrul's Will
+[14190]  Death Offering
+[59826] Umbral Army
+[17309] Prolonged Servitude
+[17080] Tide Caller
+[13362] Salt and Scale
+[51685] Brine Rot
+[47543] The Primal Owl
+[18519] The Wild Bear
+[32216] The Vivid Cat
+[43902] The Unseen Hand
+[52553] Unlight Silhouette
+[32265] Enhanced Starlight
+[10916] Volatile Runes
+[58438] Runic Boon
+[30061] You're the crazy one!
+[33670] It wasn't me!
+[52408] That didn't happen!
+[27869] Bitter Heresy
+[47767] Sinner Saint
+[3872] Farewell to Flesh
+[61092] Corruption's Embrace
+[57290] Deceitful Servant
+[38999] Ancestral Fury
+[24528] Crave the Slaughter
+[59920] Aspect of Carnage
+[29630] Gore Dancer
+[32251] War Bringer
+[57560] Rite of Ruin
+[9271] Defy Pain
+[61372] Harmony of Purpose
+[64768] Unwavering Faith
+[4494] Radiant Crusade
+[19641] Unwavering Crusade
+[3458] Marshal of Divinity
+[55146] Time of Need
+[42264] Radiant Faith
+[39728] Bastion of Hope
+[8066] Bitter Lash
+[17988] Untiring
+[5819] Unstoppable
+[53816] Unbreakable
+[44297] Undeniable
+[1734] Unflinching
+[56789] Unrelenting
+[62595] Unyielding
+[6344] Esh of the Storm
+[48711] Tul of the Blizzard
+[52855] Cryogenesis
+[34434] Ritual of Awakening
+[25651] Conviction of Power
+[60462] Illuminated Devotion
+[40510] Arcane Blessing
+[51492] Sign of Purpose
+[922] Divine Guidance
+[29026] Sanctuary of Thought
+[1105] Pursuit of Faith
+[48480] Tasalio, Cleansing Water
+[53095] Tukohama, War's Herald
+[61355] Ramako, Sun's Light
+[32249] Valako, Storm's Embrace
+[31667] Sione, Sun's Roar
+[50692] Ngamahu, Flame's Advance
+[1731] Hinekora, Death's Fury
+[12860] Bound Flesh
+[43660] Afarud Ritual
+[3154] Instruments of Justice
+[39790] Sanctuary
+[32816] Pious Path
+[13851] Instruments of Zeal
+[19417] Instruments of Virtue
+[53884] Righteous Providence
+[48214] Inevitable Judgement
+[40059] Augury of Penitence
+[8982] Sanguimancy
+[20931] Crimson Power
+[52780] Cannibalised Faith
+[699] Foul Pact
+[57850] Warlock Power
+[58281] Blood Hunt
+[45727] Soul Splitting
+[15900] Oath of Fealty
+[31517] Golden Glory
+[1564] Loyal Bodyguard
+[56292] Bestowed Knighthood
+[25944] Legendary Arms
+[46479] Noble Blood
+[63623] Might of the Bear
+[34229] Howl of the Wolf
+[15435] Templar Ascendancy
+[54877] Path of the Templar
+[61437] Marauder Ascendancy
+[24755] Path of the Marauder
+[5624] Crusader
+[52282] Tenacity
+[24798] Duelist Ascendancy
+[63357] Path of the Duelist
+[56722] Path of the Witch
+[51782] Witch Ascendancy
+[8243] Wildwood Blessing
+[34814] Lesson of the Seasons
+[5220] Oath of the Maji
+[41197] Coated Blade
+[34637] Nature's Concoction
+[63362] Intensifying Suffusion
+[29212] Detect Evil
+[13164] Divine Judgement
+[44347] Divine Fury
+[14665] Divine Wrath
+[25367] Blade Master
+[33082] Razor's Edge
+[4940] Cleaving
+[23038] Slaughter
+[772] Shadow Ascendancy
+[53992] Path of the Shadow
+[7618] Path of the Ranger
+[49532] Ranger Ascendancy
+[40849] Persistence
+[51559] Smashing Strikes
+[39761] Counterweight
+[42917] Whirling Barrier
+[27806] As The Thunder
+[40645] Bone Breaker
+[16703] Skull Cracking
+[12003] Martial Weapon Display
+[36489] Armour Display
+[35989] Jewellery Display
+[2460] Caster Weapon Display
+[4918] Indiscriminate Revenge
+[19103] Righteous Army
+[15046] Redemption
+[4177] Spiritual Aid
+[861] Aggressive Bastion
+[28449] Surge of Vigour
+[46471] Powerful Bond
+[60619] Galvanic Hammer
+[39657] Pain Forger
+[55027] Shining Justice
+[26023] Savage Wounds
+[24858] Harpooner
+[30439] Lava Lash
+[55194] Settling Ash
+[19794] Concussive Force
+[53757] Shamanistic Fury
+[63150] Ironwood
+[24716] Battle Trance
+[58831] Disemboweling
+[63635] Primal Manifestation
+[51108] Arcane Capacitor
+[30302] Hearty
+[33287] Juggernaut
+[40619] Awe and Terror
+[53118] Barbarism
+[37326] Stamina
+[11730] Endurance
+[34173] Overcharge
+[27137] Sanctum of Thought
+[35958] Faith and Steel
+[36949] Devotion
+[26564] Vanquisher
+[56359] Cannibalistic Rite
+[29049] Holy Fire
+[32932] Sovereignty
+[41305] Crushing Reply
+[54629] Inexorable
+[44191] As The Mountain
+[34973] Measured Fury
+[21389] Runesmith
+[31257] Natural Authority
+[59423] Escalation
+[25989] Nomadic Teachings
+[58218] Purity of Flesh
+[64395] Blunt Trauma
+[56094] One with the River
+[65108] Tireless
+[63422] Lust for Carnage
+[50842] Veteran's Wrath
+[59976] Careful Counterattack
+[46842] Arcane Potency
+[49772] Utmost Might
+[6967] Safeguard
+[32738] Wall of Steel
+[24324] Explosive Impact
+[5126] Spinecruncher
+[31473] Master of Wounds
+[35685] Fearsome Force
+[32245] Expertise
+[50197] Ancestral Knowledge
+[14606] Butchery
+[35663] Strong Arm
+[64077] Warrior Training
+[10542] Spiked Bulwark
+[31033] Robust
+[65308] Diamond Skin
+[36859] Steelwood Stance
+[20832] Sanctuary
+[30693] Divine Fervour
+[33435] Holy Dominion
+[54694] Light of Divinity
+[2550] Arsonist
+[5430] Magmatic Strikes
+[55772] Blacksmith's Clout
+[55381] Arcane Retaliation
+[49645] Cauterisation
+[7440] Harvester of Foes
+[56330] Flow of Battle
+[15226] Cruel Retort
+[28034] Empowered Bond
+[45657] Trial of the Faith
+[43689] Spiritual Command
+[61308] Amplify
+[38516] Righteous Decree
+[13922] Steadfast
+[62802] Brink of Death
+[38922] Goliath
+[6289] Bloodless
+[55002] Righteous Fury
+[49445] Deep Breaths
+[21413] Combat Stamina
+[30160] Fending
+[20261] Contemplative Meditation
+[49254] Retribution
+[41472] Discipline and Training
+[6237] Precision
+[26866] Sanctity
+[58449] Born to Fight
+[61198] Heart of the Warrior
+[12795] Versatility
+[24383] Warrior's Blood
+[6770] Arcane Guarding
+[32455] Storm Weaver
+[36915] Sacrifice
+[27119] Tribal Fury
+[42009] Soul of Steel
+[14001] Unfaltering
+[35436] Kinetic Impacts
+[14079] Wood, Stone, and Spell
+[45350] Glory of Command
+[22702] Serpent Stance
+[13739] Always Angry
+[27308] Gravepact
+[22133] Invigorating Blaze
+[4354] Beacon of Hope
+[13703] Defiant Stand
+[39986] Defiled Forces
+[38706] Way of the Warrior
+[22706] Savage Intensity
+[57839] Blade of Cunning
+[56029] Agility
+[37512] Bastion of Faith
+[33718] Champion of the Cause
+[65273] Enigmatic Reach
+[11820] Anointed Flesh
+[48298] Insightfulness
+[14587] Adaptive Steel
+[5456] Might
+[4854] Asylum
+[19897] Death Attunement
+[34601] Proficiency
+[60031] Prismatic Skin
+[52090] Feller of Foes
+[20835] Brinkmanship
+[2225] Eagle Eye
+[32853] Sione's Ambition
+[63944] Prism Weave
+[25970] Acrimony
+[65107] Bastion Breaker
+[52742] Hasty Demise
+[18025] Hard Knocks
+[29861] Explosive Runes
+[10016] Executioner
+[49318] Wrecking Ball
+[50029] Unnatural Calm
+[27301] Martial Experience
+[37647] Dismembering
+[21330] Quick Recovery
+[48556] Heart of Darkness
+[26620] Corruption
+[51748] Last Rites
+[26294] Bloodletting
+[9194] Merciless Skewering
+[23690] Essence Infusion
+[53802] Essence Extraction
+[8419] Determined Survivor
+[63490] Measured Retaliation
+[2598] More Than Skill
+[758] War of Attrition
+[27864] Gratuitous Violence
+[15616] Jagged Technique
+[52575] Weapon Master
+[60781] Inspiring Bond
+[24256] Dynamo
+[61190] Rallying Icon
+[7555] Crackling Speed
+[12033] Wicked Blade
+[50858] Admonisher
+[39904] Brutal Skewering
+[9261] Disciple of the Forbidden
+[64355] Brand Equity
+[44562] Shaman's Dominion
+[53840] Vengeance
+[37492] Vile Bastion
+[27096] Void Beacon
+[62504] Forbidden Power
+[25309] Withering Presence
+[47630] Frigid Wake
+[37127] Profane Bloom
+[31344] Unholy Authority
+[5502] Unhallowed Rite
+[45803] Veteran Soldier
+[28878] Relentless
+[7688] Enduring Bond
+[57900] Command of Steel
+[2599] Prepared Response
+[1340] Rampart
+[27422] Spirit of War
+[46904] Arcane Sanctuary
+[22356] Hematophagy
+[9432] Mental Rapidity
+[24721] Ribcage Crusher
+[26960] Forethought
+[10835] Dreamer
+[45317] Ash, Frost and Storm
+[55485] Constitution
+[12702] Path of the Warrior
+[12809] Berserking
+[63976] Shaper
+[21958] Cruel Preparation
+[64226] Roaring Challenge
+[15400] Skittering Runes
+[34661] Fire Walker
+[44955] Frost Walker
+[30225] Lightning Walker
+[1325] Golem's Blood
+[5574] Force of Darkness
+[21973] Decay Ward
+[24362] Deep Thoughts
+[1006] Potency of Will
+[11924] Breath of Flames
+[60501] Heart of Flame
+[34666] Destroyer
+[20605] No Forgiveness
+[12878] Retaliation
+[44207] Testudo
+[5289] Battle Rouse
+[34009] Master of the Arena
+[63933] Totemic Zeal
+[21435] Cloth and Chain
+[49416] Adamant
+[37403] Infused Flesh
+[7918] Enigmatic Defence
+[49538] Defiance
+[61259] Mastermind of Discord
+[57197] Heart of Destruction
+[4917] Bastion of Elements
+[258] Bringer of Ruin
+[53123] Shaper of Flames
+[27038] Shaper of Storms
+[40810] Shaper of Winter
+[56461] Liege of the Primordial
+[56967] Worthy Foe
+[11412] Inspirational
+[27604] First to Strike, Last to Fall
+[13374] Master of Metal
+[31700] Fortitude
+[33940] Unstoppable Hero
+[35750] Worthy Causes
+[11645] Breath of Lightning
+[56716] Heart of Thunder
+[20528] Instability
+[16246] Tranquility
+[15711] Blast Radius
+[53493] Annihilation
+[27929] Deep Wisdom
+[27203] Heart and Soul
+[27611] Lord of the Dead
+[11420] Arcanist's Dominion
+[8135] Practical Application
+[62596] Mystic Talents
+[33722] Hollow Effigy
+[48438] Bravery
+[54776] Mana Flows
+[3452] Foresight
+[37078] Path of the Savant
+[19144] Sentinel
+[41169] Jagged Wounds
+[64882] Disciple of the Unyielding
+[58921] Disciple of the Slaughter
+[4833] Vigour
+[23066] Savagery
+[25456] Dervish
+[59766] Dirty Techniques
+[38246] Presage
+[35233] Discord Artisan
+[18174] Mystic Bulwark
+[10115] Prodigal Perfection
+[14813] Revelry
+[15085] Ambidexterity
+[54268] Blade Barrier
+[4207] Window of Opportunity
+[53042] Exceptional Performance
+[48807] Art of the Gladiator
+[56146] Deliberate Brutality
+[21634] Arcane Chemistry
+[21460] Breath of Rime
+[8833] Heart of Ice
+[44788] Potent Connections
+[60002] Fury Bolts
+[45067] Thrill Killer
+[32059] Titanic Impacts
+[56274] Lasting Tempest
+[34591] Malicious Intent
+[42795] Arcane Focus
+[27163] Arcane Will
+[19730] Assured Strike
+[22972] Wandslinger
+[33582] Forceful Skewering
+[49379] Hired Killer
+[33545] Harrier
+[42041] Profane Chemistry
+[19506] Path of the Hunter
+[44103] Reflexes
+[65097] Leadership
+[21602] Destructive Apparatus
+[34506] Golem Commander
+[48719] Mistress of Sacrifice
+[3554] Essence Glutton
+[36017] Commander of Darkness
+[11490] Plaguebringer
+[23572] Corpse Pact
+[54159] Mindless Aggression
+[65153] Unnatural Strength
+[14603] Bone Barrier
+[18357] Feline Swiftness
+[48823] Deadly Draw
+[42720] Heavy Draw
+[34284] Seasoned Swordplay
+[56207] Hardened Scars
+[61982] Grave Intentions
+[11784] Vampirism
+[15437] Deflection
+[33725] Swagger
+[63033] Bannerman
+[58382] Renowned Deeds
+[30471] True Strike
+[60085] Arcane Conservation
+[27623] Harsh Lessons
+[34484] Endless Hunger
+[10143] Brutal Fervour
+[38180] Impact
+[16306] Masterful Form
+[3184] Headsman
+[17315] Overwhelm
+[62817] Bane of Legends
+[26557] Static Blows
+[63727] Gladiator's Perseverance
+[29381] Ravenous Horde
+[25409] Indomitable Army
+[62577] Essence Surge
+[9788] Nimbleness
+[36736] Burning Brutality
+[7136] Master Sapper
+[47471] Overcharged
+[39530] Vitality Void
+[1382] Spirit Void
+[6783] Savage Skewering
+[53652] Steeped in the Profane
+[36687] Avatar of the Hunt
+[26096] Hatchet Master
+[58198] Fingers of Frost
+[55114] Utmost Intellect
+[49969] Courage
+[18703] Graceful Assault
+[18865] Melding
+[38849] Searing Heat
+[9567] Light Eater
+[63207] Tempest Blast
+[39743] Dark Arts
+[36874] Wisdom of the Glade
+[29522] Dance of Blades
+[544] Surveillance
+[203] Vinespike Cordial
+[2275] Nature's Concoction
+[52230] Weathered Hunter
+[25439] Undertaker
+[24358] Selective Precision
+[570] Dazzling Strikes
+[15027] Beef
+[47306] Throatseeker
+[32345] Alacrity
+[41476] Elder Power
+[16243] Fusillade
+[52031] Disintegration
+[62849] Glacial Cage
+[41870] Winter's Embrace
+[53573] Arcane Expanse
+[10511] Tolerance
+[23549] Incorporeal
+[15344] Freedom of Movement
+[40743] Crystal Skin
+[1365] Knowledge Barrier
+[10153] Physique
+[58851] Leader of the Pack
+[65093] Bladedancer
+[3195] Legacy of the Wilds
+[54142] Finesse
+[6799] Charisma
+[41307] Deadly Inclinations
+[51360] Mixed Munitions
+[41595] Marked for Death
+[44988] Wasting
+[9015] Dire Torment
+[47743] Farsight
+[45945] Conjured Barrier
+[19069] Thick Skin
+[53759] Cleansed Thoughts
+[44102] Efficient Explosives
+[52157] Soul Siphon
+[6233] Blast Waves
+[57199] Fangs of Frost
+[50338] Ballistics
+[51440] Druidic Rite
+[65210] Heart of Oak
+[25178] Primal Spirit
+[35894] Trickery
+[5823] Coordination
+[63453] Excess Sustenance
+[32227] Adder's Touch
+[50690] Replenishing Remedies
+[62094] Taste for Blood
+[41137] Field Medicine
+[56276] Nightstalker
+[58168] High Voltage
+[26763] Perfected Formula
+[44824] Mysticism
+[63921] Utmost Swiftness
+[42649] Snowforged
+[25058] Blood Siphon
+[65224] Aspect of the Eagle
+[34978] Colloidal Mixture
+[59866] Entrench
+[64217] Aspect of Stone
+[2715] Quickstep
+[15842] One With Nature
+[45283] Cornered Prey
+[12143] Influence
+[48698] Void Barrier
+[16236] Toxic Strikes
+[46965] Saboteur
+[28754] Assassination
+[42686] Elemental Focus
+[51212] Entropy
+[33903] Will of Blades
+[60737] Sleight of Hand
+[45608] Successive Detonations
+[24067] Instinct
+[30974] Expert Hunter
+[53114] Revenge of the Hunted
+[56648] Claws of the Falcon
+[22535] Whispers of Doom
+[61039] Wild Hunger
+[28503] Life Raker
+[52714] Prowess
+[60180] Thief's Craft
+[6] Twin Terrors
+[7085] Weapon Artistry
+[529] Poisonous Fangs
+[58032] Serpentine Spellslinger
+[41119] Lethality
+[8458] Longshot
+[31513] Adjacent Animosity
+[31508] Aspect of the Lynx
+[37504] Intuition
+[3309] Fleetfoot
+[41989] Resourcefulness
+[65053] Essence Sap
+[24050] Coldhearted Calculation
+[46408] Fangs of the Viper
+[9864] Growth and Decay
+[18769] Written in Blood
+[59556] Expeditious Munitions
+[27190] Overprepared
+[47065] Master of Blades
+[9535] Hunter's Gambit
+[18707] Perfectionist
+[4481] Forces of Nature
+[41420] Natural Remedies
+[17171] Flash Freeze
+[43385] Winter Spirit
+[17608] Silent Steps
+[53013] Atrophy
+[36281] Primeval Force
+[61981] Doom Cast
+[15852] Ethereal Feast
+[48614] Fervour
+[24133] Survivalist
+[19858] Herbalism
+[32176] Soul Thief
+[8001] Clever Thief
+[42804] Mind Drinker
+[42443] Frenetic
+[25411] Infused
+[27788] Blood Drinker
+[6615] Arcing Blows
+[54713] Force Shaper
+[7263] Swift Venoms
+[63251] Inveterate
+[2959] Season of Ice
+[25738] Relentless Pursuit
+[31585] Careful Conservationist
+[52030] Burst of Energy
+[65502] Heartseeker
+[49621] Acuity
+[1405] From the Shadows
+[13375] Multishot
+[52789] Circle of Life
+[47484] Depth Perception
+[15290] Watchtowers
+[9055] Volatile Mines
+[33777] Devastating Devices
+[61689] Explosive Elements
+[13935] Thrill of Battle
+[37425] Practised Reapplication
+[32681] Mark the Prey
+[8920] Backstabbing
+[36490] Flaying
+[15614] Claws of the Hawk
+[54791] Claws of the Magpie
+[31359] Fatal Toxins
+[55380] Clever Construction
+[59605] Unstable Munitions
+[21297] High Explosives
+[59151] Brutal Blade
+[1568] Fatal Blade
+[57006] Vengeant Cascade
+[45329] Trick Shot
+[7069] Split Shot
+[21228] Piercing Shots
+[51881] Master Fletcher
+[49459] King of the Hill
+[19598] Toxic Delivery
+[1945] Mystical Infusion
+[28782] Mistwalker
+[29844] Shadowed Blood
+[46676] Assassination Style
+[21192] Infused Toxins
+[4242] Unstable Infusion
+[48239] Deathmarked
+[19083] Opportunistic
+[6038] Master Distiller
+[40813] Nature's Reprisal
+[1697] Master Toxicist
+[51101] Nature's Adrenaline
+[63293] Master Surgeon
+[65296] Nature's Boon
+[61805] Master Alchemist
+[48999] Soul Drinker
+[41891] Spellbreaker
+[23225] One Step Ahead
+[32947] Swift Killer
+[55867] Polymath
+[28884] Heartstopper
+[29825] Escape Artist
+[28535] Perfect Crime
+[39834] Demolitions Specialist
+[38918] Chain Reaction
+[47778] Bomb Specialist
+[57175] Shrapnel Specialist
+[16940] Pyromaniac
+[5087] Born in the Shadows
+[14103] Calculated Risk
+[51462] Like Clockwork
+[33645] Oath of Summer
+[55509] Avatar of the Wilds
+[29662] Experienced Herbalist
+[40104] Enduring Suffusion
+[36958] Seasoned Hunter
+[31364] Oath of Spring
+[16848] Oath of Winter
+[4849] Mother's Teachings
+[11597] Lesson of the Seasons
+[44482] Avidity
+[24848] Gathering Winds
+[2872] Occupying Force
+[5443] Focal Point
+[23169] Wind Ward
+[61627] Ricochet
+[26067] Endless Munitions
+[45313] Far Shot
+[44237] Prodigious Defence
+[35790] Advance Guard
+[36455] Gladiatorial Combat
+[12806] Strike Leader
+[28384] Powerful Ward
+[9042] Enduring Ward
+[36807] Gladiator's Fortitude
+[28398] Precise Retaliation
+[23989] Veteran Defender
+[28015] Iron Breaker
+[56760] Deep Cuts
+[2796] Master the Fundamentals
+[3805] Force Multiplier
+[981] Furious Assault
+[28635] Vicious Skewering
+[23335] Grim Oath
+[53318] Battle-Hardened
+[62634] Replenishing Presence
+[29540] Master of Command
+[47393] Spiteful Presence
+[51870] Purposeful Harbinger
+[58221] Destructive Aspect
+[59350] Electric Presence
+[61616] Volatile Presence
+[28338] Righteous Path
+[63142] Skullbreaker
+[38633] Pressure Points
+[2977] Overwhelming Malice
+[60617] Magnifier
+[25966] Savage Response
+[51541] Eye of the Storm
+[44544] Basics of Pain
+[23238] Quick Getaway
+[12149] Assert Dominance
+[63969] Vast Power
+[11661] Powerful Assault
+[42145] Intensity
+[48550] Titanic Swings
+[63607] Towering Threat
+[31440] Ancestral Echo
+[57212] Ancestral Reach
+[60864] Ancestral Might
+[56686] Ancestral Preservation
+[2004] Snaring Spirits
+[57383] Sleepless Sentries
+[54209] Ancestral Guidance
+[13950] Ancestral Inspiration
+[54382] Vital Focus
+[45935] Unrestrained Focus
+[38275] Unwavering Focus
+[46264] Enduring Focus
+[55714] Precise Focus
+[35363] Stoic Focus
+[65117] Hex Breaker
+[15990] Arcane Adept
+[56886] Distilled Perfection
+[25282] Spiked Concoction
+[5075] Fasting
+[41509] Mender's Wellspring
+[47584] Special Reserve
+[62707] Numbing Elixir
+[28744] Mob Mentality
+[17816] Cry Wolf
+[6696] Haunting Shout
+[36655] Lead By Example
+[33182] Provocateur
+[7107] Warning Call
+[29450] Rattling Bellow
+[39006] Bloodscent
+[58189] Run Through
+[60894] Wound Aggravation
+[13054] Overlord
+[48925] Expansive Might
+[4205] Weight Advantage
+[1067] Wind-up
+[39738] Fan of Blades
+[57141] Disease Vector
+[7343] Arcing Shot
+[38563] Tempered Arrowheads
+[20834] Broadside
+[33002] Explosive Force
+[41056] Opportunistic Fusilade
+[30622] Storm's Hand
+[18463] Battlefield Dominator
+[14431] Martial Mastery
+[61474] Surefooted Striker
+[42687] Graceful Execution
+[6553] Brutal Infamy
+[20996] Fearsome Warrior
+[24484] Combat Rhythm
+[62618] Hit and Run
+[23232] Insatiable Killer
+[24889] Mage Bane
+[2655] Martial Momentum
+[1478] Deadly Repartee
+[39058] Quick and Deadly
+[44670] Smite the Weak
+[38790] Heavy Hitter
+[37] Martial Prowess
+[41594] Calamitous
+[22581] Devastator
+[14518] Fuel the Fight
+[41284] Drive the Destruction
+[26197] Feed the Fury
+[1066] Seal Mender
+[784] Conjured Wall
+[20533] Arcane Heroism
+[34205] Practiced Caster
+[5190] Burden Projection
+[14085] Thaumophage
+[32415] Essence Rush
+[42648] Sap Psyche
+[42117] Sadist
+[2306] Corrosive Elements
+[7039] Doryani's Lesson
+[17255] Disorienting Display
+[17050] Prismatic Heart
+[36776] Widespread Destruction
+[33482] Master of Fire
+[13790] Smoking Remains
+[56696] Cremator
+[40870] Snowstorm
+[22607] Storm Drinker
+[31825] Paralysis
+[59646] Supercharge
+[6258] Blanketed Snow
+[54436] Cold to the Core
+[23113] Cold-Blooded Killer
+[49273] Touch of Cruelty
+[38592] Unwaveringly Evil
+[1494] Unspeakable Gifts
+[40828] Dark Ideation
+[2264] Unholy Grace
+[34595] Wicked Pall
+[58949] Renewal
+[6703] Raze and Pillage
+[16650] Rotten Claws
+[55022] Call to the Slaughter
+[11535] Skeletal Atrophy
+[68] Hulking Corpses
+[41983] Vicious Bite
+[57892] Primordial Bond
+[29748] Blowback
+[45128] Fan the Flames
+[408] Cooked Alive
+[56065] Burning Bright
+[10952] Wrapped in Flame
+[4942] Vivid Hues
+[8258] Rend
+[42338] Disorienting Wounds
+[37384] Compound Injury
+[9372] Blood Artist
+[18412] Phlebotomist
+[38399] Septic Spells
+[36370] Low Tolerance
+[47424] Steady Torment
+[11995] Eternal Suffering
+[61043] Eldritch Inspiration
+[19686] Wasting Affliction
+[56879] Haemorrhage
+[34581] Flow of Life
+[56070] Exposure Therapy
+[28146] Brush with Death
+[65110] Vile Reinvigoration
+[10355] Circling Oblivion
+[4094] Brewed for Potency
+[51467] Astonishing Affliction
+[25563] Cold Conduction
+[20343] Inspired Oppression
+[58248] Chilling Presence
+[18861] Deep Chill
+[39874] Blast-Freeze
+[35430] Thunderstruck
+[37478] Stormrider
+[28682] Overshock
+[42305] Evil Eye
+[57104] Evil Eye
+[61549] Forbidden Words
+[18624] Doedre's Spite
+[42929] Victim Maker
+[14418] Master of Fear
+[7279] Wish for Death
+[28551] Heraldry
+[24038] Endbringer
+[16952] Cult-Leader
+[17066] Empowered Envoy
+[8897] Dark Messenger
+[61998] Agent of Destruction
+[17905] Lasting Impression
+[65521] Self-Fulfilling Prophecy
+[40402] Invigorating Portents
+[5781] Pure Agony
+[24357] Disciples
+[55171] Dread March
+[42126] Blessed Rebirth
+[62318] Life from Death
+[22540] Feasting Fiends
+[11199] Bodyguards
+[42068] Follow-Through
+[36645] Streamlined
+[12400] Shrieking Bolts
+[54170] Eye to Eye
+[53285] Repeater
+[13812] Aerodynamics
+[26839] Chip Away
+[37358] Seeker Runes
+[59307] Remarkable
+[36276] Brand Loyalty
+[42636] Holy Conquest
+[13392] Grand Design
+[29193] Set and Forget
+[54760] Expert Sabotage
+[24645] Guerilla Tactics
+[65138] Expendability
+[52058] Arcane Pyrotechnics
+[22434] Surprise Sabotage
+[20383] Careful Handling
+[8949] Peak Vigour
+[52844] Fettle
+[15538] Feast of Flesh
+[62706] Sublime Sensation
+[19723] Surging Vitality
+[49694] Peace Amidst Chaos
+[40858] Adrenaline
+[3723] Wall of Muscle
+[12867] Mindfulness
+[4958] Liquid Inspiration
+[20968] Openness
+[15175] Daring Ideas
+[2220] Clarity of Purpose
+[43834] Scintillating Idea
+[23884] Holistic Health
+[62160] Genius
+[42024] Improvisor
+[32031] Stubborn Student
+[52544] Savour the Moment
+[20241] Energy From Naught
+[33698] Will Shaper
+[64782] Spring Back
+[11513] Conservation of Energy
+[39331] Heart of Iron
+[54766] Prismatic Carapace
+[50820] Militarism
+[60647] Second Skin
+[14412] Dragon Hunter
+[57572] Enduring Composure
+[42313] Prismatic Dance
+[64259] Natural Vigour
+[22704] Untouchable
+[46074] Shifting Shadow
+[9245] Readiness
+[11318] Confident Combatant
+[4641] Flexible Sentry
+[58944] Vicious Guard
+[34108] Mystical Ward
+[11011] Rote Reinforcement
+[25450] Mage Hunter
+[64407] Riot Queller
+[53067] One with the Shield
+[23042] Aerialist
+[40181] Elegant Form
+[9276] Darting Movements
+[18155] No Witnesses
+[48803] Molten One's Mark
+[42530] Fire Attunement
+[17769] Pure Might
+[13549] Blacksmith
+[1581] Non-Flammable
+[38683] Winter Prowler
+[19508] Hibernator
+[26322] Pure Guile
+[58904] Alchemist
+[33676] Antifreeze
+[44203] Wizardry
+[22002] Capacitor
+[51421] Pure Aptitude
+[10409] Sage
+[54798] Insulated
+[51523] Born of Chaos
+[21688] Antivenom
+[29096] Rot-Resistant
+[64717] Blessed
+[26179] Student of Decay
+[33] Lord of Drought
+[25938] Blizzard Caller
+[17662] Tempt the Storm
+[14061] Misery Everlasting
+[42601] Exploit Weakness
+[33232] Self-Control
+[21907] Uncompromising
+[60690] Sublime Form
+[32259] Mortifying Aspect
+[31333] Frantic Aspect
+[907] Introspection
+[9495] Hound's Mark
+[37882] Doedre's Gluttony
+[16540] Doedre's Apathy
+[44731] Master of the Maelstrom
+[29764] Aggressive Defence
+[44435] Holy Word
+[7431] Fiery Aegis
